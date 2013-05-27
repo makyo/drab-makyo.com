@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+
+---
+
+<p>Matthew Scott is a programmer, composer, and writer living in Fort Collins, Colorado.  This serves as a place to collect various works in something of a portfolio.  For additional information, his r&eacute;sum&eacute; is available online <a href="http://resume.drab-makyo.com" target="_blank">here</a>.</p>
+<hr />
+
+{% for post in site.posts limit:10 %}
+    <section class="post">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>Posted in {% for category in post.categories %}{% if category != "posts" %}<a href="/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} {% endif %}{% endfor %} on {{ post.date|date_to_string }}</p>
+        <div class="post-content">
+            {{ post.content }}
+        </div>
+    </section>
+{% endfor %}
+
+<br clear="all" />

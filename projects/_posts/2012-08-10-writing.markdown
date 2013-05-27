@@ -1,0 +1,9 @@
+---
+layout: default
+title: Writing
+
+---
+
+<div style="text-align: center"><img alt="Writing screenshot" src="/assets/projects/writing.png" /></div>
+
+[Writing](http://writing.drab-makyo.com) is my personal writing site for more long-form writings than my old WordPress blog. It is powered by Jekyll using Markdown and a git post-receive hook for publishing.
