@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: post
 title: Bechdel Test Results
+image: "/assets/projects/visualization/bechdel.png"
+tags: noindex
 
 ---
-
-<div style="text-align: center"><img alt="Bechdel Test Results" src="/assets/projects/visualization/bechdel.png" /></div>
 
 [The Bechdel Test](http://vis.mjs-svc.com/bechdel/) is one way to measure what is known as the Male Gaze in cinema. It measures three criteria:
 

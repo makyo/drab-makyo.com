@@ -102,12 +102,16 @@ a:visited {
     float: left;
     height: 600px;
     overflow: hidden;
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px solid #bdb;
     -moz-box-shadow: inset 0 -50px 50px -50px #aca;
     -webkit-box-shadow: inset 0 -50px 50px -50px #aca;
     box-shadow: inset 0 -50px 50px -50px #aca;
 }
 
+.post-content {
+    text-align: center;
+}
+
 .post img {
-    width: 80%;
+    max-width: 80%;
 }

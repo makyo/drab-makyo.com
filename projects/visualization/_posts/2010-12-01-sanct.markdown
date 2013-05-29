@@ -1,0 +1,9 @@
+---
+layout: post
+title: Sanctions Against Non-Heterosexual Youth
+image: "/assets/projects/visualization/sanct.png"
+tag: noindex
+
+---
+
+A [visualization](http://vis.mjs-svc.com/lgbsanction) of data from a study published in Pediatrics regarding the punishment discrepancies between heterosexual and non-heterosexual teens. Using overlaid bar-graphs, the differences become clear.

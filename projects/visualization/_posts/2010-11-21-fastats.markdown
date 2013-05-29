@@ -1,0 +1,9 @@
+---
+layout: post
+title: FurAffinity.net Statistics
+image: "/assets/projects/visualization/fastats.png"
+tag: noindex
+
+---
+
+FurAffinity.net is an excellent artistic and community resource for members of the furry fandom, but their statistics are a little dry, so I figured I'd spruce them up a little with Protovis. FA users can drop their statistics into a form and view the output as a visualization, and share that visualization with others.  The statistics are available [here](http://vis.adjectivespecies.com/fastats/) as part of \[adjective\]\[species\].

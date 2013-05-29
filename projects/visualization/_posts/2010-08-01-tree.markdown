@@ -1,0 +1,9 @@
+---
+layout: post
+title: Tree of Life
+image: "/assets/projects/visualization/tree.png"
+tags: noindex
+
+---
+
+A [visualization](http://vis.mjs-svc.com/tree) of the "tree of life" as a radial network. Nodes, or clades at the circumference are species alive today, and as you trace the lines back, you can see where they converged in the past. That is, the closer you get to the center, the farther back in time you go. Data from the [Hillis/Bull lab](http://www.zo.utexas.edu/faculty/antisense/DownloadfilesToL.html), done as research for my job to explore vector data using OpenLayers.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Visualizing Sexual Behavior
+image: "/assets/projects/visualization/sex.png"
+tags: noindex
+
+---
+
+Using data from the National Survey of Sexual Health and Behavior, I created a [three-part, interactive visualization](http://vis.mjs-svc.com/sex/) using Protovis for the first time. Done for a [Visualize This challenge](http://flowingdata.com/2010/10/20/visualize-this-sexual-health-data-from-national-survey/).
