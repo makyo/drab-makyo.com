@@ -4,8 +4,9 @@ title: Visualization Projects
 
 ---
 
-{% for post in site.categories.visualization limit:10 %}
-    <section class="post">
+<section class="pure-g-r">
+{% for post in site.categories.visualization %}
+    <section class="post pure-u-1-2">
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>Posted in {% for category in post.categories %}{% if category != "posts" %}<a href="/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} {% endif %}{% endfor %} on {{ post.date|date_to_string }}</p>
         <div class="post-content">
@@ -13,5 +14,6 @@ title: Visualization Projects
         </div>
     </section>
 {% endfor %}
+</section>
 
 <br clear="all" />
