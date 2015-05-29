@@ -1,0 +1,61 @@
+==================================================================
+https://keybase.io/makyo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://drab-makyo.com
+  * I am makyo (https://keybase.io/makyo) on keybase.
+  * I have a public key with fingerprint E795 7560 B50A E42E 2349  E6FD 8361 A9B7 C553 09AB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e7957560b50ae42e2349e6fd8361a9b7c55309ab",
+            "host": "keybase.io",
+            "key_id": "8361a9b7c55309ab",
+            "kid": "0111491dcb9367ab5d28e007f2d2df3b6b283e5ed7c2ae82f65a76917fc2bc8b44ce0a",
+            "uid": "fe60c6d9424d2242e895cc0ad80ac700",
+            "username": "makyo"
+        },
+        "service": {
+            "hostname": "drab-makyo.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432867362,
+    "expire_in": 157680000,
+    "prev": "321597d3d88da85256bcfc3f1ceed9dfe167ba8be66d7ad42b49948b8a826e1c",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMEYAnicbZK7bxNBEMaPZxRLSIQUUIalAxPt++ECUSBqHkKUp33MOSvjO+fubLCi
+VCnpqEEgIYqIChoqCiJSIRp6ev4AKip2rdCxzWpnvu83M6v5euFMMdg4sIefjh+u
+vz/17cvtefFo/APtIdeEJRrtoQmsrirWY2hnbax7NEKgjFBCYiewBU6BMm5AVkEz
+SaxxygvBsLEODdFO02VHwjjbwXZsUiw9yhhS9D/6ySqBCSHckOCdYVJZJwLVgLGq
+aKChYk46qhkICMpTC5pWUlglDVGVp85rx7kHbBNuvsJVILGXwXDKA6WpYW2E99gG
+ja1XGGdhB21tp5DUUztZNmh/iFJoET3k+fMYJ+nQWndzpdn2zTRZZ23TN755knI7
+fT8bZWu/nGXtU3DlCaV0sQ7pF5NhAW0XmxqNSFL6PmYs4YxqqZikQwTPZrGFMmaF
+UFLjdHIZWCQko0QYFVjQOlgtqJDOV55VxAMEEyogUjmrHUgZlA2cOm4M105bTSUQ
+j/Jcu3WT2alPO07MLo5r289bQPtHd88WG4Pi/LnTeQ+KwfrFf9txa6t48+Hd6/Jx
+P3jpr28+v3ppct+94GvFq8vHb+99PPp15fufO59/XrvxYPP3weFf9DG7jA==
+=DWDg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/makyo
+
+==================================================================
