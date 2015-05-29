@@ -27,10 +27,10 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1432867362,
+    "ctime": 1432867774,
     "expire_in": 157680000,
-    "prev": "321597d3d88da85256bcfc3f1ceed9dfe167ba8be66d7ad42b49948b8a826e1c",
-    "seqno": 15,
+    "prev": "08817e4da2428df599592da2dbb384d10139a6791799933d47c61199b81cc064",
+    "seqno": 18,
     "tag": "signature"
 }
 
@@ -40,17 +40,17 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.8
 Comment: https://keybase.io/crypto
 
-yMEYAnicbZK7bxNBEMaPZxRLSIQUUIalAxPt++ECUSBqHkKUp33MOSvjO+fubLCi
-VCnpqEEgIYqIChoqCiJSIRp6ev4AKip2rdCxzWpnvu83M6v5euFMMdg4sIefjh+u
-vz/17cvtefFo/APtIdeEJRrtoQmsrirWY2hnbax7NEKgjFBCYiewBU6BMm5AVkEz
-SaxxygvBsLEODdFO02VHwjjbwXZsUiw9yhhS9D/6ySqBCSHckOCdYVJZJwLVgLGq
-aKChYk46qhkICMpTC5pWUlglDVGVp85rx7kHbBNuvsJVILGXwXDKA6WpYW2E99gG
-ja1XGGdhB21tp5DUUztZNmh/iFJoET3k+fMYJ+nQWndzpdn2zTRZZ23TN755knI7
-fT8bZWu/nGXtU3DlCaV0sQ7pF5NhAW0XmxqNSFL6PmYs4YxqqZikQwTPZrGFMmaF
-UFLjdHIZWCQko0QYFVjQOlgtqJDOV55VxAMEEyogUjmrHUgZlA2cOm4M105bTSUQ
-j/Jcu3WT2alPO07MLo5r289bQPtHd88WG4Pi/LnTeQ+KwfrFf9txa6t48+Hd6/Jx
-P3jpr28+v3ppct+94GvFq8vHb+99PPp15fufO59/XrvxYPP3weFf9DG7jA==
-=DWDg
+yMEYAnicbVI7ixRBEB6fcAuClytIx+vR78cmGpnIRbpmsvSjZrdZd2acnV1vOS7x
+fsGZCYKmIhwbCJcJigZieIgXmpn5DwS7lzOzk6aqvu+r+or6fO1S0ds+tG9PvjzY
+enfh28e7i2I4Pv2wj1wdVmiwj6aw+cpYjaFt2lh1aIBAGaGExE5gC5wCZdyALINm
+kljjlBeCYWMd6qNJPc+MJOPsHHZinXIpGMWQsv/BTzcFTAjhhgTvDJPKOhGoBoxV
+SQMNJXPSUc1AQFCeWtC0lMIqaYgqPXVeO849YJvkFhu5EiT2MhhOeaA0DayN8B7b
+oLH1CuMMnENb2Rkk9MxOVzU66KOUWkYP2X+2cV4OrXW3N5gdX88StWnrrvb1k1Sb
+dF0zyNRu1WTsM3Cjc5WRi1VIW0yEJbTzWFdoQBLSdzHLEs6olkop3kew18QWRjEj
+hJIap5fbwDKvRmuigAebfOhQCmOEoSkKzjHNA8GEGStV2oUxhrHAlZeEGOM0SZYl
+R9nX06pO2jrNacdJcx7Hle0WLaCDT/cuF9u94uqVi/kOit7W9X/Xcf9x8frhrx93
+ziYvfh6evvx9Y7i7xmd/XhVvjo+Phif++WT3aM2+rt/fCje/P/oLERu/MA==
+=OMpl
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
