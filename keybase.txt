@@ -13,12 +13,18 @@ To do so, I am signing this object:
 {
     "body": {
         "key": {
+            "eldest_kid": "0111491dcb9367ab5d28e007f2d2df3b6b283e5ed7c2ae82f65a76917fc2bc8b44ce0a",
             "fingerprint": "e7957560b50ae42e2349e6fd8361a9b7c55309ab",
             "host": "keybase.io",
             "key_id": "8361a9b7c55309ab",
             "kid": "0111491dcb9367ab5d28e007f2d2df3b6b283e5ed7c2ae82f65a76917fc2bc8b44ce0a",
             "uid": "fe60c6d9424d2242e895cc0ad80ac700",
             "username": "makyo"
+        },
+        "revoke": {
+            "sig_ids": [
+                "ed5a104ec7305ffa5a85c033d504d0dc3a136da6589613f85789010dcbdaf5000f"
+            ]
         },
         "service": {
             "hostname": "drab-makyo.com",
@@ -27,30 +33,32 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1432867774,
+    "ctime": 1455888778,
     "expire_in": 157680000,
-    "prev": "08817e4da2428df599592da2dbb384d10139a6791799933d47c61199b81cc064",
-    "seqno": 18,
+    "prev": "bd94ed9982e90a5fb91d7955ec98defd5c62d0dba1c0ad4f48317e864be735ec",
+    "seqno": 21,
     "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.8
+Version: Keybase OpenPGP v2.0.51
 Comment: https://keybase.io/crypto
 
-yMEYAnicbVI7ixRBEB6fcAuClytIx+vR78cmGpnIRbpmsvSjZrdZd2acnV1vOS7x
-fsGZCYKmIhwbCJcJigZieIgXmpn5DwS7lzOzk6aqvu+r+or6fO1S0ds+tG9PvjzY
-enfh28e7i2I4Pv2wj1wdVmiwj6aw+cpYjaFt2lh1aIBAGaGExE5gC5wCZdyALINm
-kljjlBeCYWMd6qNJPc+MJOPsHHZinXIpGMWQsv/BTzcFTAjhhgTvDJPKOhGoBoxV
-SQMNJXPSUc1AQFCeWtC0lMIqaYgqPXVeO849YJvkFhu5EiT2MhhOeaA0DayN8B7b
-oLH1CuMMnENb2Rkk9MxOVzU66KOUWkYP2X+2cV4OrXW3N5gdX88StWnrrvb1k1Sb
-dF0zyNRu1WTsM3Cjc5WRi1VIW0yEJbTzWFdoQBLSdzHLEs6olkop3kew18QWRjEj
-hJIap5fbwDKvRmuigAebfOhQCmOEoSkKzjHNA8GEGStV2oUxhrHAlZeEGOM0SZYl
-R9nX06pO2jrNacdJcx7Hle0WLaCDT/cuF9u94uqVi/kOit7W9X/Xcf9x8frhrx93
-ziYvfh6evvx9Y7i7xmd/XhVvjo+Phif++WT3aM2+rt/fCje/P/oLERu/MA==
-=OMpl
+yMFaAnicrZKrb1RBFMZvKZC0gYRKghtJlmbej9UNCkeCoCGbeZzZ3mz33uXeu1u6
+pQoHAoGnmqBQBEXKIwg8FoHG0D8Azt0Uh0RNZuY73/nNd+bT1fVic+uJf/X2892N
+12tfT3/Ni3tfrj89IqFOh2R4RCawWmA/QduNJmUiQ0IZY9KxFIMT2vigErdAqck8
+8ZRF0IFbAQqSidyD5Vkrb7RjJkceog1SRqCeDEguqzE0s6asOrQF45RRmgZFPUgO
+XEgHOicrNPMumKiUoM4HLNyr274C4YJvYbus8Qw3oxXeP/T/mXu+ssugadTJSS4T
+5whsnYqR+mSpj4bSXthCU/kpoHrqJ4c1OR6QBhb1BPpQ23KMxC0Z7hJIyjMqIRpB
+Vc5eeasiFSIpKhNNUXgmdPJaWaeZyFYZ6yjDi5B8VpTSTB6gN7ZblHFl3kd03jo1
+Ptxa9d+O9RSxZk3d1bHex7u9rpsNe6zucNZrDyCMzl1GoawSTggLFtC0ZV2RIUNl
+7MrelkmlrLXG2AGBR7OygVHZK5TRFoFo3wYWaBkwIkjOWQ6OepUDjgBHrSA6myAn
+FTXHNwbP+vBkllYwA1bLAEagivTveljVZMgZcvoxemJ0le/mDZDjD7cvFlubxeVL
+F/qfW2xuXPv7n8/eFyePX16xb5Y/zwbf5ttq7cbHjWf3XxQnd3a/Pz8a/XjX7iy3
+Dn4vb/LydP0PFMfxRg==
+=h2W9
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -59,3 +67,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/makyo
 
 ==================================================================
+
