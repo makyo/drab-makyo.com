@@ -1,0 +1,8 @@
+---
+layout: post
+title: 300.01
+image: "/assets/projects/300.01.png"
+
+---
+
+[300.01](http://300.01.drab-makyo.com) is an exploration into what it means to have generalized anxiety disorder.

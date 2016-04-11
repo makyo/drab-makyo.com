@@ -1,0 +1,8 @@
+---
+layout: post
+title: Writing 2015 Update
+image: "/assets/projects/writing-2.png"
+
+---
+
+[Writing](http://writing.drab-makyo.com) is my personal writing site for more long-form writings than my old WordPress blog. It is powered by Jekyll using Markdown and a git post-receive hook for publishing.  It has been updated to include a clearer layout for multiple types of writing

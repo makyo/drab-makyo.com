@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hybrid
+image: "/assets/projects/hybrid-1.png"
+
+---
+
+[Hybrid](http://hybrid.ink) is aiming to be a print publication of non-fiction surrounding the furry subculture.

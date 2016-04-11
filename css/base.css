@@ -100,26 +100,13 @@ a:visited {
 }
 
 .post {
-    height: 600px;
-    overflow: hidden;
-    /*border-bottom: 1px solid #bdb;
-    -moz-box-shadow: inset 0 -50px 50px -50px #aca;
-    -webkit-box-shadow: inset 0 -50px 50px -50px #aca;
-    box-shadow: inset 0 -50px 50px -50px #aca;*/
-}
-
-.post-inner {
-    padding-left: 1em;
-}
-
-.front-odd {
-    background-color: #fafafa;
-}
-
-.post-content {
-    text-align: center;
+    margin-bottom: 3em;
+    border-bottom: 1px solid #ddd;
+    position: relative;
 }
 
 .post img {
-    max-width: 80%;
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
 }

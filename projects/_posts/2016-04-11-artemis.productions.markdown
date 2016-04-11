@@ -1,0 +1,8 @@
+---
+layout: post
+title: ARTEMIS PRODUCTIONS
+image: "/assets/projects/artemis-1.png"
+
+---
+
+[ARTEMIS PRODUCTIONS](http://artemis.productions) is a website for exploring and writing about beer brewing, wine making, mead making, and distilling.

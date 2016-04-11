@@ -1,0 +1,8 @@
+---
+layout: post
+title: polycul.es
+image: "/assets/projects/visualization/polycules-1.png"
+
+---
+
+[polycul.es](http://polycul.es) is a project that allows one to visualize and map polyamorous relationships.
