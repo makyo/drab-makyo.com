@@ -38,14 +38,13 @@ tbody td, thead th {
 | Name | Trade name | Dose | Purpose |
 |---|---|---|---|
 | Fluoxetine | Prozac | 40mg 1x daily | Anti-depressant |
+| Olanzapine | Zyprexa | 1.25mg 1x daily | Atypical antipsychotic | 
 | Spironolactone | Aldactone | 100mg 2x daily | Anti-androgen (HRT) |
 | Estradiol (patch) | Mylan | 0.1mg daily (twice weekly patch) | Estrogen sex hormone (HRT) |
 | Omeprazole | Prilosec | 20.6mg every other day | Proton pump inhibitor |
 | Lorazepam | Ativan | 0.5mg as needed | Anxiolytic |
 
-\* NB: Recently ceased Olanzapine 2.5mg Q - some withdrawal symptoms present.
-
-### Emergency contact
+# Emergency contact
 
 * **Primary Emergency Contact:**
   * James Clary (Husband) <span id="jd-num"></span>
