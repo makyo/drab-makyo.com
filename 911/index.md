@@ -37,8 +37,7 @@ tbody td, thead th {
 
 | Name | Trade name | Dose | Purpose |
 |---|---|---|---|
-| Fluoxetine | Prozac | 40mg 1x daily | Anti-depressant |
-| Olanzapine | Zyprexa | 1.25mg 1x daily | Atypical antipsychotic | 
+| Fluoxetine | Prozac | 20mg 1x daily | Anti-depressant |
 | Spironolactone | Aldactone | 100mg 2x daily | Anti-androgen (HRT) |
 | Estradiol (patch) | Mylan | 0.1mg daily (twice weekly patch) | Estrogen sex hormone (HRT) |
 | Omeprazole | Prilosec | 20.6mg every other day | Proton pump inhibitor |
