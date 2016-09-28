@@ -26,6 +26,8 @@ I recently discontinued the medication olanzapine, an atypical antipsychotic, at
 
 Additionally, although less pressing, the withdrawal sends me occasionally into mixed affective states which appear primarily as agitation and pacing, with difficulty concentrating and, at worst, a motor tic in my neck.  This is *not urgent*, just help me calm down.  Also, get me a glass of water, just to be safe :)
 
+I also quit drinking, so some withdrawal symptoms may be related to that.
+
 ### Stats
 
 * **Name**
