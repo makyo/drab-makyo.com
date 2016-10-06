@@ -50,10 +50,11 @@ I also quit drinking, so some withdrawal symptoms may be related to that.
 | Name | Trade name | Dose | Purpose |
 |---|---|---|---|
 | Fluoxetine | Prozac | 20mg 1x daily | Anti-depressant |
+| Lamotrigine | Lamictal | 25mg 1x daily | Mood stabilizer |
 | Spironolactone | Aldactone | 100mg 2x daily | Anti-androgen (HRT) |
 | Estradiol (patch) | Mylan | 0.1mg daily (twice weekly patch) | Estrogen sex hormone (HRT) |
 | Omeprazole | Prilosec | 20.6mg every other day | Proton pump inhibitor |
-| Acamprosate | Campral | 333mg 3x daily | Alcohol cessation | 
+| Acamprosate | Campral | 333mg 2x daily | Alcohol cessation | 
 | Lorazepam | Ativan | 0.5mg as needed | Anxiolytic |
 
 # Emergency contact
