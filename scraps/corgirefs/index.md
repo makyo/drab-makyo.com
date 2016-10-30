@@ -1,4 +1,7 @@
-# Refs for Corgi W.
+---
+title: Refs for Corgi W.
+layout: default
+---
 
 ![1](1.jpg)
 
