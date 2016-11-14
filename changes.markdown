@@ -17,9 +17,9 @@ There are certain things that I can do to make my way through life be more
 comfortable and I am working on taking these steps so that I can be the best
 person I know how to be.  Through the summer and fall of 2014, I worked on
 shedding the name of Matthew Joseph Scott and adopting the name Madison Jesse
-Scott-Clary, and adopting gender-neutral pronouns for myself (they/them/their
-or ey/em/eir specifically).  Each of these steps will be, to the best of my
-ability, deliberate and explicit.
+Scott-Clary, and adopting gender-neutral or feminine pronouns for myself
+(she/her or they/them, specifically).  Each of these steps will be, to the best
+of my ability, deliberate and explicit.
 
 If you have any questions on this change, please feel free to get in touch with
 me and ask away.  I have left this page deliberately short rather than try and

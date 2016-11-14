@@ -111,3 +111,8 @@ a:visited {
     max-width: 100%;
     margin: 0 auto;
 }
+
+.post-content .post-image {
+    max-width: 66%;
+    margin: 0 auto;
+}
