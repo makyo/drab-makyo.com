@@ -223,6 +223,6 @@ High school
 :   Fairview High School - 2000-2004
 
     * Focused on choral music through five different choirs
-    * Helped lead sound production with Jared Sanusi during choral and pops concerts
+    * Helped lead sound production during choral and pops concerts
     * Managed the student-run web server and school website as part of a team of other students under the direction of a staff coordinator
     * Co-facilitated a student group exploring world philosophies and religions

@@ -14,7 +14,11 @@ article {
 }
 
 header {
+    position: relative;
     text-align: center;
+    margin-top: 0.5em;
+    border-top: 3px solid #333;
+    border-bottom: 2px solid #ccc;
 }
 
 header h1 {
@@ -27,6 +31,26 @@ header h1 small {
     color: #666;
     font-style: italic;
     font-weight: lighter;
+}
+
+header .contact {
+    position: relative;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+header .contact address:first-of-type {
+    padding-bottom: 0.5em;
+    position: relative;
+}
+
+header .contact address img {
+    vertical-align: middle;
+}
+
+header .expand {
+    width: 0px;
+    height: 0px;
 }
 
 header nav {
@@ -44,6 +68,14 @@ header nav ul li {
     margin: 0px 1em;
 }
 
+a, a:hover, a:active {
+    color: #242;
+}
+
+a:visited {
+    color: #244;
+}
+
 dl dt {
     font-style: italic;
 }
@@ -53,12 +85,12 @@ dl dd {
     color: #666;
 }
 
-a, a:hover, a:active {
-    color: #242;
+dl dd a {
+    color: #575;
 }
 
-a:visited {
-    color: #244;
+dl dd a:visited {
+    color: #577;
 }
 
 /* Hide mobile functionality on wider screens */
@@ -88,25 +120,90 @@ header .contact input {
     border-left: 5px solid transparent;
 }
 
-@media (max-width: 960px) {
+.noit {
+    font-style: normal;
+    text-decoration: none;
+    color: #333;
+}
+
+.clearfix:before {
+    content: " ";
+    clear: both;
+    display: table;
+}
+
+@media only screen and (min-width: 960px) {
     header .contact {
-        margin-top: 1em;
+        height: 20px;
+        overflow: hidden;
+        border-bottom: 1px dashed #ccc;
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+    }
+
+    header .contact address {
+        pointer-events: none;
+    }
+
+    header .expand {
+        width: 100%;
+        height: 10px;
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+    }
+
+    header .expand:after {
+        content: 'Expand';
+        text-align: center;
         position: relative;
+        top: -16px;
+        font-size: 8px;
+        height: 10px;
+        margin: 0px;
+        color: #333;
+        overflow: hidden;
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
     }
 
-    header .contact .trigger,
-    header .contact input {
-        display: block;
-    }
-
-    header .contact input {
+    header .contact address:first-of-type:before {
+        content: '';
+        width: 100%;
+        height: 100%;
         position: absolute;
         top: 0;
         left: 0;
-        width: 100%;
-        height: 16px;
-        opacity: 0;
-        cursor: pointer;
+        background: linear-gradient(transparent, rgba(255,255,255,0.8));
+        pointer-events: none;
+    }
+
+    header .contact:hover,
+    .preload header .contact {
+        height: 50px;
+        border-bottom-color: transparent;
+    }
+
+    header .contact:hover address:first-of-type:before,
+    .preload header .contact address:first-of-type:before  {
+        background: linear-gradient(transparent, transparent);
+    }
+
+    header .contact:hover + .expand,
+    .preload header .contact + .expand {
+        height: 0px;
+    }
+
+    header .contact:hover + .expand:after,
+    .preload header .contact + .expand:after {
+        color: #fff;
+        height: 0px;
+    }
+}
+
+@media (max-width: 960px) {
+    header .contact {
+        display: inline-block;
+        margin: 1em auto 0 auto;
     }
 
     header .contact address .line {
@@ -119,22 +216,20 @@ header .contact input {
     }
 
     header .contact address {
-        display: none;
-    }
-
-    header .contact input:checked + address {
-        display: block;
-        border-left: 0.25em solid #ccc;
+        display: inline-block;
+        float: left;
         padding-left: 0.5em;
         margin: 0px auto;
-        width: 10em;
-        white-space: nowrap;
-        overflow: visible;
         text-align: left;
+    }
+
+    header .contact address:first-of-type {
+        margin-bottom: 1em;
     }
 
     header,
     article {
+        margin-top: 0px;
         padding: 1em;
     }
 }
@@ -144,12 +239,16 @@ header .contact input {
         display: none;
     }
 
-    header .contact .trigger {
-        display: none;
-    }
-
     header .contact address {
         display: block;
-        text-align: center;
+        text-align: left;
+    }
+
+    header .contact address:last-of-type {
+        text-align: right;
+    }
+
+    header .contact address a {
+        text-decoration: none;
     }
 }

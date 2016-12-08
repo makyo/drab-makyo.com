@@ -3,7 +3,7 @@ layout: cv
 title: "R&eacute;sum&eacute;"
 ---
 
-Madison Scott-Clary is a software engineer and writer living in Loveland, CO. She works heavily with web development, both on the front- and back-end, as well as with DevOps and cloud-based solutions. She strives to further her knowledge within both areas, as well as to expand into other fields both within and outside of software engineering and computers. As a supporter and proponent of Free and Open-Source Software, she is committed to providing the best tools and products that she can using FOSS software and under FOSS licenses where appropriate
+Madison Scott-Clary is a software engineer and writer living in Loveland, CO. She works heavily with web development, both on the front- and back-end, as well as with DevOps and cloud-based solutions. She strives to further her knowledge within both areas, as well as to expand into other fields both within and outside of software engineering and computers. As a supporter and proponent of Free and Open-Source Software, she is committed to providing the best tools and products that she can using FOSS and under OSI-approved licenses where appropriate.
 
 ## Skills
 
@@ -24,7 +24,7 @@ Ancillary skills
 :  
     * As a process maven, experienced and adamant about CI, test coverage and reporting, and code commenting and documentation
     * Experience working in a management, mediator, and technical lead capacity
-    * Keenly interested in a diverse workforce as well as healthy work-life balance and social interactions within the workplace
+    * Keenly interested in a diverse workforce, healthy work-life balance, and constructive social interactions within the workplace
 
 ## Work experience
 
@@ -62,7 +62,7 @@ Rational Software, Inc.
 
     * Tested the software offering *Rational Requisite Pro* and reported test findings to superiors
 
-Additional employment experience, publications, and volunteer projects Madison has worked with are available on her [C.V.](../cv)
+Additional employment experience, publications, and volunteer projects Madison has worked with are available on her [C.V.](/cv)
 
 ## Education
 
@@ -76,6 +76,6 @@ High school
 :   Fairview High School - 2000-2004
 
     * Focused on choral music through five different choirs
-    * Helped lead sound production with Jared Sanusi during choral and pops concerts
+    * Helped lead sound production during choral and pops concerts
     * Managed the student-run web server and school website as part of a team of other students under the direction of a staff coordinator
     * Co-facilitated a student group exploring world philosophies and religions
