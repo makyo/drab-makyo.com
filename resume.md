@@ -8,23 +8,13 @@ Madison Scott-Clary is a software engineer and writer living in Loveland, CO. Sh
 ## Skills
 
 Web development
-:  
-    * Proficient in back-end technologies and languages such as Python (using Flask and Django) and Go (using various frameworks such as Martini and Gorilla)
-    * Experienced in several front-end technologies and languages, from page layout using standards compliant HTML5 to page styling using CSS (vanilla, Sass, and Less) to page interaction using JavaScript (vanilla, CoffeeScript, and Elm)
-    * Focused specifically on data visualization using tools such as D3, nvd3, and Crossfilter
-    * Strives for responsive applications and designs that can be used across devices, whether through frameworks such as Bootstrap or through bespoke styling
+:   Back-end technologies: Python (using Flask and Django), Go (using Martini and Gorilla); front-end technologies: standards compliant HTML5, CSS (standard, Sass, and Less), and JavaScript (standard, CoffeeScript, and Elm); focus on data visualization with D3, nvd3, and Crossfilter; responsive application design through frameworks (Vanilla, Bootstrap, etc) or bespoke styling.
 
 Cloud and DevOps
-:  
-    * Experience working with several different cloud providers such as Amazon AWS, Google Compute Engine, and Microsoft Azure, as well as unconventional providers such as LXD, MaaS, and manual providers based on discrete servers and ancillary providers such as Digital Ocean and Rackspace
-    * Fluent in deployment layouts to provide highly available, load balanced, and monitored applications and application stacks
-    * Familiar with various automation and deployment strategies, primarily through Juju, but also Chef, Puppet, and Ansible
+:   Cloud providers: Amazon AWS, Google Compute Engine, and Microsoft Azure; local providers: LXD, MaaS, and manual providers based on discrete servers and ancillary services such as Digital Ocean and Rackspace; providing highly available, load balanced, and monitored applications and application stacks; deployment strategies such as Juju, but also Chef, Puppet, and Ansible
 
 Ancillary skills
-:  
-    * As a process maven, experienced and adamant about CI, test coverage and reporting, and code commenting and documentation
-    * Experience working in a management, mediator, and technical lead capacity
-    * Keenly interested in a diverse workforce, healthy work-life balance, and constructive social interactions within the workplace
+:   As a process maven, Madison is experienced and adamant about CI, test coverage and reporting, and code commenting and documentation. She has also worked with technical writing, blogging, and promotional writing for software products She has experience working in a management, mediator, and technical lead capacity, and is keenly interested in a diverse workforce, healthy work-life balance, and constructive social interactions within the workplace
 
 ## Work experience
 
@@ -57,25 +47,9 @@ Colorado State University Libraries
     * Developed in-house software for managing the Atmospheric Sciences Reading Room, a branch library, allowing basic lending of materials
     * Investigated custom software for mapping resources in the library as well as locations around the campus, providing shortest-path routing from current location
 
-Rational Software, Inc.
-:   QA engineer - 2001
-
-    * Tested the software offering *Rational Requisite Pro* and reported test findings to superiors
-
 Additional employment experience, publications, and volunteer projects Madison has worked with are available on her [C.V.](/cv)
 
 ## Education
 
 University
-:   Colorado State University - 2004-2011
-
-    * Studied music composition under Dr. David Wohl, Dr. Forrest Greenough, and Dr. James David.
-    * Additional studies included further computer science education, focusing on Java and C, including tutoring other students.
-
-High school
-:   Fairview High School - 2000-2004
-
-    * Focused on choral music through five different choirs
-    * Helped lead sound production during choral and pops concerts
-    * Managed the student-run web server and school website as part of a team of other students under the direction of a staff coordinator
-    * Co-facilitated a student group exploring world philosophies and religions
+:   Colorado State University (2004-2011) studying music composition and computer science.
