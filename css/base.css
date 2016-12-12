@@ -5,12 +5,15 @@ body {
     line-height: 1.5em;
 }
 
-#content {
-    padding: 1em 10% 1em 10%;
+.content {
+    padding: 0 1em;
+    max-width: 960px;
+    margin: 0 auto;
 }
 
 #skip-links {
     float: right;
+    padding-right: 1em;
     font-size: 10pt;
 }
 
@@ -30,7 +33,7 @@ header, footer {
 
 header {
     margin-top: 1em;
-    padding: 4px 1em 0 10%;
+    padding: 4px 0;
 }
 
 header h1 {
@@ -46,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #navigation {
-    width: 500px;
+    max-width: 500px;
     text-align: center;
 }
 
@@ -84,7 +87,12 @@ footer {
     text-align: right;
 }
 
-/* Internal stuff */
+.headshot {
+    float:left;
+    height:400px;
+    padding-right:1em;
+}
+
 hr {
     border: 0;
     height: 1px;
@@ -110,9 +118,51 @@ a:visited {
     position: relative;
     max-width: 100%;
     margin: 0 auto;
+    vertical-align: middle;
 }
 
 .post-content .post-image {
     max-width: 66%;
     margin: 0 auto;
+}
+
+
+table {
+    border: 1px solid #ccc;
+    margin: 0 auto;
+}
+
+thead {
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+tbody td, thead th {
+    padding: 3px 5px;
+    vertical-align: top;
+}
+
+@media only screen and (max-width: 500px) {
+    #skip-links,
+    header h1 span {
+        display: none;
+    }
+
+    header img {
+        width: 100%;
+    }
+
+    .headshot {
+        float: none;
+        width: 100%;
+    }
+
+    #content {
+        padding-bottom: 0.5em;
+        overflow-x: scroll;
+    }
 }

@@ -14,7 +14,7 @@ Cloud and DevOps
 :   Cloud providers: Amazon AWS, Google Compute Engine, and Microsoft Azure; local providers: LXD, MaaS, and manual providers based on discrete servers and ancillary services such as Digital Ocean and Rackspace; providing highly available, load balanced, and monitored applications and application stacks; deployment strategies such as Juju, but also Chef, Puppet, and Ansible
 
 Ancillary skills
-:   As a process maven, Madison is experienced and adamant about CI, test coverage and reporting, and code commenting and documentation. She has also worked with technical writing, blogging, and promotional writing for software products She has experience working in a management, mediator, and technical lead capacity, and is keenly interested in a diverse workforce, healthy work-life balance, and constructive social interactions within the workplace
+:   As a process maven, Madison is experienced and adamant about CI, test coverage and reporting, and code commenting and documentation. She has also worked with technical writing, blogging, and promotional writing for software products She has experience working in a management, mediator, and technical lead capacity, and is keenly interested in a diverse workforce, healthy work-life balance, and constructive social interactions within the workplace. As a trans woman, she is very focused on gender representation in tech.
 
 ## Work experience
 
