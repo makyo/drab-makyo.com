@@ -8,7 +8,7 @@ title: "Curriculum Vit&aelig;"
 ### Paid work experience:
 
 Canonical, Ltd.
-:   Software engineer - 2012-*present*
+:   Software engineer --- 2012-*present*
 
     * Shepherded the Juju GUI from inception to production, working to implement changes from the core API as it moved from Python to Go
     * Worked to implement annotation information within Juju core to allow persistent GUI state to be stored within Juju models
@@ -19,7 +19,7 @@ Canonical, Ltd.
         * Go-based bundleservice and corresponding charm, which provided an API endpoint for generating both the bundle changes and bundle SVG
 
 bConnected Software/Optum Health/United Health Group
-:   Software engineer - 2011-2012
+:   Software engineer --- 2011-2012
 
     * Worked to implement a supplemental insurance sales portal from initial meetings to release
     * Developed web applications in Grails and JavaScript, backed by an API provided by an in-house tool
@@ -28,7 +28,7 @@ bConnected Software/Optum Health/United Health Group
     * Built a basic editor for the rules engine and a related forms engine
 
 Colorado State University Libraries
-:   Library Technical Services and Research &amp; Development - 2007-2011
+:   Library Technical Services and Research &amp; Development --- 2007-2011
 
     * Provided hardware and software technical support to library staff, comprising 400-500 desktop machines
     * Worked with specialized equipment such as flat book scanners, archival scanners, and plate-glass negative scanners
@@ -43,56 +43,56 @@ Colorado State University Choral Department
     * Cleaned and organized the choral library
 
 Colorado State University Dining
-:   Head line cook and prep - 2005-2006
+:   Head line cook and prep --- 2005-2006
 
     * Prepared and served meals for a cafeteria serving 500+ students per meal alongside a team of several employees
     * Managed line cooks and prep-workers throughout their shift
     * Ensured food safety procedures were followed
 
 Colorado State University Choral Department
-:   Summer course assistant - 2005
+:   Summer course assistant --- 2005
 
     * Helped the Summer Choral Institute by acting as a runner for the director, Dr. James Kim
     * Copied and organized music for the students of the institute
     * Sang alongside volunteers in a test-choir directed by the students
 
 Rational Software, Inc.
-:   QA engineer - 2001
+:   QA engineer --- 2001
 
     * Tested the software Requisite Pro and reported test findings to superiors
 
 ### Volunteer work experience:
 
 Further Confusion 2017
-:   Art track lead - 2016-2017
+:   Art track lead --- 2016-2017
 
     * Helped manage panel submissions and communications between the programming department and panelists for presentations within the art track
     * Helped with PTK, the web application used to manage panels and panelists for the convention
     * Helped organize panels and panelists at the convention itself
 
 StudioTime
-:   Web developer - 2012
+:   Web developer --- 2012
 
     * Helped implement a website for a local design shop.
 
 Colorado Bach Ensemble
-:   Web developer - 2011-2012
+:   Web developer --- 2011-2012
 
     * Hosted and implemented a website based on designs provided by a volunteer designer
 
 InkWorks
-:   Web developer and designer - 2010-2012
+:   Web developer and designer --- 2010-2012
 
     * Hosted and implemented a website for a local print shop, including the ability to send files to be printed on demand and ready for pick-up
 
 Elliot's Martini Bar
-:   Web developer and designer - 2010-2012
+:   Web developer and designer --- 2010-2012
 
     * Helped design the bar menu to the lead bartender's specifications and managed print runs
     * Designed and implemented a website for Elliot's Martini Bar
 
 Teen Activity Providers' Network (TAPN)
-:   Web developer - 2002-2003
+:   Web developer --- 2002-2003
 
     * Designed and implemented a website for a local organization aiming to promote and organize events for Boulder Valley teenagers
 
@@ -103,60 +103,116 @@ Teen Activity Providers' Network (TAPN)
 
     Projects led:
 
-    * [Addle](http://openfurry.org/projects/addle) - "A pluggable advertising framework which allows sites to manage and sell their own ad spaces. Also functions as a standalone app via an API."
-    * [Charref](http://openfurry.org/projects/charref) - "A place to quickly store visual and textual references of fictional (or even real-life) characters, aiming to be the link you give an artist when commissioning them."
-    * [Honeycomb](http://openfurry.org/projects/honeycomb) - "Furry, and even other creative groups, lack sites focused solely on writing. There are galleries, to be sure, which allow written works, but nothing intended solely for that purpose. To that end, and with input from the Furry Writers' Guild, Honeycomb was born."
-    * [Ideawheel](http://openfurry.org/projects/ideawheel) - "Need an idea? Ideawheel lets one collect disparate fragments of ideas into something worth pursuing as the core to a project, written or otherwise."
-    * [OFAuth](http://openfurry.org/projects/ofauth) - "With so many projects floating around within OpenFurry, a centralized single sign-on service was called for, so that users could log in to OF projects from one place."
-    * [Submitify](http://openfurry.org/projects/submitify) - "A centralized, social, multi-format, all-in-one site for managing calls for submissions, submitting to the same, and organizing submission reviews and notifications."
-    * [Yipsum](http://openfurry.org/projects/yipsum) - "Filler text for the modern furry." Available [here](http://yipsum.openfurry.org)
+    * [Addle](http://openfurry.org/projects/addle) --- "A pluggable advertising framework which allows sites to manage and sell their own ad spaces. Also functions as a standalone app via an API."
+    * [Charref](http://openfurry.org/projects/charref) --- "A place to quickly store visual and textual references of fictional (or even real-life) characters, aiming to be the link you give an artist when commissioning them."
+    * [Honeycomb](http://openfurry.org/projects/honeycomb) --- "Furry, and even other creative groups, lack sites focused solely on writing. There are galleries, to be sure, which allow written works, but nothing intended solely for that purpose. To that end, and with input from the Furry Writers' Guild, Honeycomb was born."
+    * [Ideawheel](http://openfurry.org/projects/ideawheel) --- "Need an idea? Ideawheel lets one collect disparate fragments of ideas into something worth pursuing as the core to a project, written or otherwise."
+    * [OFAuth](http://openfurry.org/projects/ofauth) --- "With so many projects floating around within OpenFurry, a centralized single sign-on service was called for, so that users could log in to OF projects from one place."
+    * [Submitify](http://openfurry.org/projects/submitify) --- "A centralized, social, multi-format, all-in-one site for managing calls for submissions, submitting to the same, and organizing submission reviews and notifications."
+    * [Yipsum](http://openfurry.org/projects/yipsum) --- "Filler text for the modern furry." Available [here](http://yipsum.openfurry.org)
 
 [\[adjective\]\[species\]](https://github.com/adjspecies)
 :   The programming side of the metafurry resource
 
-    * [furrypoll](https://github.com/adjspecies/furrypoll) - the annual furry survey
-    * [furrypoll-munger](https://github.com/adjspecies/furrypoll-munger) - "Bits and bobs for munging data from the furry poll into something useful."
-    * [\[a\]\[s\] Visualizations](https://github.com/adjspecies/vis.adjectivespecies.com) - Visualization of data from the Furry Poll and other data sources, available [here](http://vis.adjectivespecies.com)
+    * [furrypoll](https://github.com/adjspecies/furrypoll) --- the annual furry survey
+    * [furrypoll-munger](https://github.com/adjspecies/furrypoll-munger) --- "Bits and bobs for munging data from the furry poll into something useful."
+    * [\[a\]\[s\] Visualizations](https://github.com/adjspecies/vis.adjectivespecies.com) --- Visualization of data from the Furry Poll and other data sources, available [here](http://vis.adjectivespecies.com)
 
 [Personal projects](https://github.com/makyo)
-:   additional projects not falling under a larger heading
+:   additional projects not falling under a larger heading (reverse chronological order)
 
-    * [adiaux](https://github.com/makyo/adiaux) - delete old tweets prior to a certain date, including those beyond the viewing limit
-    * [prose-wc](https://github.com/makyo/prose-wc) - Jekyll-aware wordcount utility
-    * [polycul.es](https://github.com/makyo/polycul.es) - graphing polyamorous relationships with force directed layouts, available [here](https://polycul.es)
-    * [QTimeLapse](https://github.com/makyo/qtimelapse) - Qt-based time lapse software for external cameras controlled through GPhoto
-    * [300.01](https://github.com/makyo/300.01) - another experiential "game" about living with anxiety, available [here](http://300.01.drab-makyo.com)
-    * [A Full Life](https://github.com/makyo/a-full-life) - a small experiential "game" about living a full life, available [here](http://a-full-life.drab-makyo.com)
+    * Qoheleth --- An alternate reality game
+        * [cards](https://github.com/but-death-must/cards) --- an implementation of the Solitaire stream cipher, intended to be ugly and unreadable (with a separate commented branch)
+        * [qoheleth](https://github.com/but-death-must/qoheleth)
+    * [twinedown](https://github.com/makyo/twinedown) --- tools for working with Twine2 files, and an attempt to learn Ruby at the same time
+        * `twine2svg`: takes in a twine file and outputs an SVG map of passages
+        * `twine2markdown`: will take in a twine file and output a markdown file of passages (for editing)
+        * `markdown2twine`: will take in a markdown file and output a twine file (for distraction free writing in comfortable editor)
+    * [adiaux](https://github.com/makyo/adiaux) --- delete old tweets prior to a certain date, including those beyond the viewing limit
+    * [prose-wc](https://github.com/makyo/prose-wc) --- Jekyll-aware wordcount utility, written to learn python packaging
+    * [polycul.es](https://github.com/makyo/polycul.es) --- graphing polyamorous relationships with force directed layouts, available [here](https://polycul.es)
+    * [QTimeLapse](https://github.com/makyo/qtimelapse) --- Qt-based time lapse software for external cameras controlled through GPhoto, written to learn desktop application development with QT
+    * [300.01](https://github.com/makyo/300.01) --- another experiential "game" about living with anxiety, available [here](http://300.01.drab-makyo.com)
+    * [A Full Life](https://github.com/makyo/a-full-life) --- a small experiential "game" about living a full life, available [here](http://a-full-life.drab-makyo.com)
 
 ## Project/application deployment and hosting
 
 Creativity related projects
 :  
-    * [Honeycomb Cafe](http://alopex.honeycomb.cafe) - an alpha/CD implementation of a site for writers, readers, and publishers - Django application designed and self-hosted
-    * <https://submit.drab-makyo.com> - an instance of Submitify, a writing submission and reviewing tool - Django application designed and self-hosted
-    * [Hybrid](http://hybrid.ink) - a metafurry journal appearing both in print and digital formats - Jekyll site designed and hosted on GitHub
-    * [\[adjective\]\[species\]](http://adjectivespecies.com) and [Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur](http://lovesexfur.com) - a metafurry resource comprising blog posts, guides, and data visualization - Jekyll and Wordpress sites designed, Wordpress self-hosted, Jekyll hosted on GitHub
-    * [Characters @ OpenFurry](https://characters.openfurry.org) - an artistic reference and description resource for members of the furry subculture and their characters - Django application designed and self-hosted
-    * Bookmarfs (defunct) - a furry book club - Wordpress site designed and self-hosted
-    * [Trans Stock Photography](http://transstock.photography) - a not-yet-live project for hosting and selling stock photography by, for, and of transgender and gender-nonconforming individuals - static site designed and self-hosted
+    2017:
+
+    * [Exocortices](http://exocortic.es) --- a sister-site to Post-Self focused on events before those in PS --- Jekyll site designed and hosted on GitHub
+
+    2016:
+
+    * [Post-Self](http://post-self.io) --- a collaborative fiction site focusing on a far-future universe --- Jekyll site designed and hosted on GitHub
+    * [Honeycomb Cafe](http://alopex.honeycomb.cafe) --- an alpha/CD implementation of a site for writers, readers, and publishers --- Django application designed and self-hosted
+    * <https://submit.drab-makyo.com> --- an instance of Submitify, a writing submission and reviewing tool --- Django application designed and self-hosted
+    * [Hybrid](http://hybrid.ink) --- a metafurry journal appearing both in print and digital formats --- Jekyll site designed and hosted on GitHub
+
+    2012:
+
+    * Bookmarfs (defunct) --- a furry book club --- Wordpress site designed and self-hosted
+
+    2011:
+
+    * [\[adjective\]\[species\]](http://adjectivespecies.com) and [Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur](http://lovesexfur.com) --- a metafurry resource comprising blog posts, guides, and data visualization --- Jekyll and Wordpress sites designed, Wordpress self-hosted, Jekyll hosted on GitHub
+
+    2010:
+
+    * [Characters @ OpenFurry](https://characters.openfurry.org) --- an artistic reference and description resource for members of the furry subculture and their characters --- Django application designed and self-hosted
+
+    In limbo:
+
+    * [Trans Stock Photography](http://transstock.photography) --- a not-yet-live project for hosting and selling stock photography by, for, and of transgender and gender-nonconforming individuals --- static site designed and self-hosted
 
 Data, development, and design related projects
 :  
-    * [OpenFurry](http://openfurry.org) - a site organizing all of the projects and members of OpenFurry - Jekyll site designed and hosted on GitHub
-    * [\[a\]\[s\] Visualizations](http://vis.adjectivespecies.com) - browser-based visualizations of data from the Furry Poll and elsewhere - Jekyll- and D3-based site designed and hosted on GitHub
-    * [The Furry Poll](https://furrypoll.com) - the yearly Furry Poll designed to collect demographic and market data of the furry subculture - Flask application designed and self-hosted
-    * [\[a\]\[s\] Surveys](https://survey.adjectivespecies.com) - stand-alone microsurveys for topics \[a\]\[s\] is interested in - Django application designed and self-hosted
-    * [Yipsum](http://yipsum.openfurry.org) - a filler-text generator for members of the furry subculture - static site designed and hosted on GitHub
+    2016:
+
+    * [OpenFurry](http://openfurry.org) --- a site organizing all of the projects and members of OpenFurry --- Jekyll site designed and hosted on GitHub
+
+    2015:
+
+
+    * [The Furry Poll](https://furrypoll.com) --- the yearly Furry Poll designed to collect demographic and market data of the furry subculture --- Flask application designed and self-hosted
+
+    2013:
+
+    * [\[a\]\[s\] Surveys](https://survey.adjectivespecies.com) --- stand-alone microsurveys for topics \[a\]\[s\] is interested in --- Django application designed and self-hosted
+    * [Yipsum](http://yipsum.openfurry.org) --- a filler-text generator for members of the furry subculture --- static site designed and hosted on GitHub
+
+    2011:
+
+    * [\[a\]\[s\] Visualizations](http://vis.adjectivespecies.com) --- browser-based visualizations of data from the Furry Poll and elsewhere --- Jekyll- and D3-based site designed and hosted on GitHub
 
 Stand-alone, personal, and unrelated projects
 :  
-    * [Drab Makyo](http://drab-makyo.com) - personal site containing portfolio, C.V., and r&eacute;sum&eacute; - Jekyll site designed and hosted on GitHub
-    * [Writing](http://writing.drab-makyo.com) - a personal writing site containing blogs, non-fiction articles, fiction, poetry, and work in progress - Jekyll site designed and hosted on GitHub
-    * [Photography](http://makyo.photography) - 500px-powered personal photography site
-    * [polycul.es](https://polycul.es) - a site for visualizing polyamorous relationships through force directed graphs - Flask application designed and self-hosted
-    * [300.01](http://300.01.drab-makyo.com) - a site for an experiential "game" - static site designed and self-hosted
-    * [A Full Life](http://a-full-life.drab-makyo.com) - a site for an experiential "game" - static site designed and self-hosted
-    * [agalmic.holdings](http://agalmic.holdings) - a site listing intellectual property holdings - Jekyll site designed and hosted on GitHub
+    2017:
+
+    * [Patrons](http://patrons.drab-makyo.com) --- a site for use in conjunction with Patreon, allowing encrypted posts to be viewed by certain levels of patrons --- Jekyll site designed and hosted on GitHub
+
+    2016:
+
+    * [polycul.es](https://polycul.es) --- a site for visualizing polyamorous relationships through force directed graphs --- Flask application designed and self-hosted
+    * [agalmic.holdings](http://agalmic.holdings) --- a site listing intellectual property holdings --- Jekyll site designed and hosted on GitHub
+
+    2015:
+
+    * [Photography](http://makyo.photography) --- 500px-powered personal photography site
+
+    2014:
+
+    * [300.01](http://300.01.drab-makyo.com) --- a site for an experiential "game" --- static site designed and self-hosted
+
+    2013:
+
+    * [Drab Makyo](http://drab-makyo.com) --- personal site containing portfolio, C.V., and r&eacute;sum&eacute; --- Jekyll site designed and hosted on GitHub
+    * [A Full Life](http://a-full-life.drab-makyo.com) --- a site for an experiential "game" --- static site designed and self-hosted
+
+    2010:
+
+    * [Writing](http://writing.drab-makyo.com) --- a personal writing site containing blogs, non-fiction articles, fiction, poetry, and work in progress --- Jekyll site designed and hosted on GitHub
 
 ## Writing
 
@@ -164,15 +220,16 @@ Stand-alone, personal, and unrelated projects
 
 Works published in resources not edited by Madison
 :  
-    * Article: "Gender: Furry" - 2017 - *Furries Among US II*
-    * Article: ["Coming out in Tech: Communication is Key"](http://thenewstack.io/coming-out-in-tech/) - 2016 - The New Stack
-    * Poem: "The dogs assure me" - 2016 - *Civilized Beasts 2016*
-    * Short story: "Foxes and Milkshakes" - 2016 - Further Confusion 2016 Program
+    * Article: "Gender: Furry" --- 2017 --- *Furries Among US II*
+    * Article: ["Coming out in Tech: Communication is Key"](http://thenewstack.io/coming-out-in-tech/) --- 2016 --- The New Stack
+    * Poem: "The dogs assure me" --- 2016 --- *Civilized Beasts 2016*
+    * Short story: "Foxes and Milkshakes" --- 2016 --- Further Confusion 2016 Program
 
 Works published in resources edited by Madison
 :  
-    * [Articles on \[adjective\]\[species\]](http://www.adjectivespecies.com/author/makyo/) - 2011-2016
-    * [Articles on Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur](http://lovesexfur.com/author/makyo/) - 2013-2014
+    * [Stories and works on Post-Self](http://post-self.io/about/contributors/#makyo) and [Exocortices](http://exocortic.es/about/contributors/#makyo) --- 2016-2017
+    * [Articles on \[adjective\]\[species\]](http://www.adjectivespecies.com/author/makyo/) --- 2011-2016
+    * [Articles on Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur](http://lovesexfur.com/author/makyo/) --- 2013-2014
     * The Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur Guides:
         * [Safer Sex](http://guides.lovesexfur.com/safer-sex)
         * [Relationships](http://guides.lovesexfur.com/relationships)
@@ -182,45 +239,46 @@ Works published in resources edited by Madison
 
 Discrete editorial work
 :  
-    * [*Arcana*](writing.drab-makyo.com/anthologies/arcana/) - an anthology of short furry fiction focused on the archetypes represented by the major arcana of the Tarot deck
+    * [*Arcana*](writing.drab-makyo.com/anthologies/arcana/) --- an anthology of short furry fiction focused on the archetypes represented by the major arcana of the Tarot deck
 
 Ongoing editorial work
 :  
     * \[adjective\]\[species\]
-        * [\[adjective\]\[species\]](http://adjectivespecies.com) - a metafurry resource exploring the furry subculture, both from a furry and a nonfurry perspective
-        * [Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur](http://lovesexfur.com) - a spinoff of \[a\]\[s\] focused on relationships and sexuality
-        * [Hybrid](http://hybrid.ink) - a themed, semiannual non-fiction publication focusing on exploring the furry subculture through a diverse range of articles, opinions, and personal stories, lightened with a dash of poetry
+        * [\[adjective\]\[species\]](http://adjectivespecies.com) --- a metafurry resource exploring the furry subculture, both from a furry and a nonfurry perspective
+        * [Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur](http://lovesexfur.com) --- a spinoff of \[a\]\[s\] focused on relationships and sexuality
+        * [Hybrid](http://hybrid.ink) --- a themed, semiannual non-fiction publication focusing on exploring the furry subculture through a diverse range of articles, opinions, and personal stories, lightened with a dash of poetry
+    * [Post-Self](http://post-self.io) and [Exocortices](http://exocortic.es) --- a collaborative fiction site focusing on a far-future universe
 
 ### Ancillary work
 
 * Associate Member of the [Furry Writers' Guild](https://furrywritersguild.com)
-* Bookmarfs (website defunct) - a book club for furries exploring and discussing written works inside and outside the fandom
+* Bookmarfs (website defunct) --- a book club for furries exploring and discussing written works inside and outside the fandom
 
 ## Music
 
-2010 - Senior composition recital in 2011, premiering
+2010 --- Senior composition recital in 2011, premiering
 :  
-    * *Daglarim* - a modern classical style piece for string quartet based on a folk theme from Tuva
-    * *I Often Wondered* - a choral adaptation of a square poem, whose words are the same read down as they are across, with the music working the same way
-    * *Concerto for Saxophone Quartet, Mvt 1 - Dance* - the first movement in a series of three exploring romantic composition structures in a contemporary style
-    * *Duet for Horn and Bass* - a piece for two unlikely instruments and percussion, commissioned by two instrumentalist friends
-    * *Mirrors* - a piece for Pierrot ensemble that's mirrored from back to front and, often, from top to bottom
+    * *Daglarim* --- a modern classical style piece for string quartet based on a folk theme from Tuva
+    * *I Often Wondered* --- a choral adaptation of a square poem, whose words are the same read down as they are across, with the music working the same way
+    * *Concerto for Saxophone Quartet, Mvt 1 --- Dance* --- the first movement in a series of three exploring romantic composition structures in a contemporary style
+    * *Duet for Horn and Bass* --- a piece for two unlikely instruments and percussion, commissioned by two instrumentalist friends
+    * *Mirrors* --- a piece for Pierrot ensemble that's mirrored from back to front and, often, from top to bottom
 
-2009 - Junior composition recital during a departmental performance, premiering
+2009 --- Junior composition recital during a departmental performance, premiering
 :  
-    * *I live my life in widening circles* - a choral piece setting the words of Rainer Maria Rilke to music
-    * *Character Dances* - a suite of piano pieces exploring a programatic theme
+    * *I live my life in widening circles* --- a choral piece setting the words of Rainer Maria Rilke to music
+    * *Character Dances* --- a suite of piano pieces exploring a programatic theme
 
 ## Education
 
 University
-:   Colorado State University - 2004-2011
+:   Colorado State University --- 2004-2011
 
     * Studied music composition under Dr. David Wohl, Dr. Forrest Greenough, and Dr. James David.
     * Additional studies included further computer science education, focusing on Java and C, including tutoring other students.
 
 High school
-:   Fairview High School - 2000-2004
+:   Fairview High School --- 2000-2004
 
     * Focused on choral music through five different choirs
     * Helped lead sound production during choral and pops concerts

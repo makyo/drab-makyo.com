@@ -19,7 +19,7 @@ Ancillary skills
 ## Work experience
 
 Canonical, Ltd.
-:   Software engineer - 2012-*present*
+:   Software engineer --- 2012-*present*
 
     * Shepherded the Juju GUI from inception to production, working to implement changes from the core API as it moved from Python to Go
     * Worked to implement annotation information within Juju core to allow persistent GUI state to be stored within Juju models
@@ -30,7 +30,7 @@ Canonical, Ltd.
         * Go-based bundleservice and corresponding charm, which provided an API endpoint for generating both the bundle changes and bundle SVG
 
 bConnected Software/Optum Health/United Health Group
-:   Software engineer - 2011-2012
+:   Software engineer --- 2011-2012
 
     * Worked to implement a supplemental insurance sales portal from initial meetings to release
     * Developed web applications in Grails and JavaScript, backed by an API provided by an in-house tool
@@ -39,7 +39,7 @@ bConnected Software/Optum Health/United Health Group
     * Built a basic editor for the rules engine and a related forms engine
 
 Colorado State University Libraries
-:   Library Technical Services and Research &amp; Development - 2007-2011
+:   Library Technical Services and Research &amp; Development --- 2007-2011
 
     * Provided hardware and software technical support to library staff, comprising 400-500 desktop machines
     * Worked with specialized equipment such as flat book scanners, archival scanners, and plate-glass negative scanners
