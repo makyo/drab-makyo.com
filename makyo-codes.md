@@ -5,7 +5,12 @@ title: Makyo Codes
 
 I work on a lot of little projects here and there, from websites to databases to command line apps. Several of these belong to other organizations, but here I'm including only those that I directly manage. Tips are appreciated for those who liked or found useful any of these!
 
-To that end, I've set up a [Gratipay project](https://gratipay.com/makyo) in case you would like to donate and help support my work!
+To that end, I've set up a [Gratipay project](https://gratipay.com/makyo) in case you would like to donate and help support my work! If you're looking for other ways to support my projects, writing as well as code, you can also check out my [Patreon](https://patreon.com/makyo), which offers incentives (oooh, incentives!) as well.
+
+
+<script data-gratipay-teamslug="makyo"
+  src="https://grtp.co/v2.js" async></script>
+<a href="https://www.patreon.com/bePatron?u=425636" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
 
 Here are the apps I'm currently working on or maintaining:
 
@@ -104,3 +109,5 @@ Widgets (primarily for my own reference):
 
 <script data-gratipay-teamslug="makyo"
   src="https://grtp.co/v2.js" async></script>
+
+<a href="https://www.patreon.com/bePatron?u=425636" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
