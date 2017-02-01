@@ -5,7 +5,7 @@ title: Makyo Codes
 
 I work on a lot of little projects here and there, from websites to databases to command line apps. Several of these belong to other organizations, but here I'm including only those that I directly manage. Tips are appreciated for those who liked or found useful any of these!
 
-[Gratipay widget]
+To that end, I've set up a [Gratipay project](https://gratipay.com/makyo) in case you would like to donate and help support my work!
 
 Here are the apps I'm currently working on or maintaining:
 
@@ -89,3 +89,18 @@ a-full-life
 
     * [GitHub](https://github.com/makyo/a-full-life)
     * [Website](http://a-full-life.drab-makyo.com)
+
+-----
+
+For those projects that I work on through other organizations, there may be additional Gratipay projects, each of which will have their own site:
+
+* *None yet*
+
+-----
+
+Widgets (primarily for my own reference):
+
+[![Gratipay User](https://img.shields.io/gratipay/user/makyo.svg)](https://gratipay.com/makyo)
+
+<script data-gratipay-teamslug="makyo"
+  src="https://grtp.co/v2.js" async></script>
