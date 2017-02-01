@@ -1,0 +1,91 @@
+---
+layout: default
+title: Makyo Codes
+---
+
+I work on a lot of little projects here and there, from websites to databases to command line apps. Several of these belong to other organizations, but here I'm including only those that I directly manage. Tips are appreciated for those who liked or found useful any of these!
+
+[Gratipay widget]
+
+Here are the apps I'm currently working on or maintaining:
+
+prose-wc
+:   Jekyll- and prose-aware wordcount
+
+    * [GitHub](https://github.com/makyo/prose-wc)
+    * [PyPI](https://pypi.python.org/pypi/prose-wc/)
+
+ffmddb
+:   Flat-file-with-metadata database
+
+    * [GitHub](https://github.com/makyo/ffmddb)
+    * [ReadTheDocs](https://ffmddb.rtfd.io)
+
+polycul.es
+:   Force-directed polycule visualization webapp
+
+    * [GitHub](https://github.com/makyo/polycul.es)
+    * [Website](https://polycul.es)
+
+bbbingo.me
+:   Snarky/joke bingo card generator
+
+    * [GitHub](https://github.com/makyo/bbbingo.me)
+    * [Website](http://bbbingo.me)
+
+twinedown
+:   Tools for working with Twine 2 files
+
+    * [GitHub](https://github.com/makyo/twinedown)
+
+tipengine
+:   Discoverable tip, hint, and answer engine
+
+    * [GitHub](https://github.com/makyo/tipengine)
+
+wsgi-app
+:   A Juju charm for deploying WSGI applications
+
+    * [GitHub](https://github.com/makyo/wsgi-app)
+    * [Walkthroug](http://writing.drab-makyo.com/posts/tech/how-charming)
+
+d3rr
+:   D3-based railroad diagram generator
+
+    * [GitHub](https://github.com/makyo/d3rr)
+
+Here are some projects that have lapsed, but that I'm willing to work on again:
+
+manuscriptify
+:   Simple webapp which attempts to convert a document to standard manuscript formats
+
+    * [GitHub](https://github.com/makyo/manuscriptify)
+    * [Example](https://manuscriptify.drab-makyo.com)
+
+steep.love
+:   Single page app for timing tea steeps
+
+    * [GitHub](https://github.com/makyo/steep.love)
+    * [Website](http://steep.love)
+
+adiaŭ
+:   Tool for deleting tweets older than a certain date
+
+    * [GitHub](https://github.com/makyo/adiaux)
+
+qtimelapse
+:   Qt- and GPhoto-based timelapse software
+
+    * [GitHub](https://github.com/makyo/qtimelapse)
+
+300.01
+:   Experiential browser game exploring the sensation of anxiety
+
+    * [GitHub](https://github.com/makyo/300.01)
+    * [Website](http://300.01.drab-makyo.com)
+
+a-full-life
+:   Experiential browser game exploring what it means to live a full life and how it feels when you can't
+
+    * [GitHub](https://github.com/makyo/a-full-life)
+    * [Website](http://a-full-life.drab-makyo.com)
