@@ -10,9 +10,11 @@ I work on a lot of little projects here and there. I work with code: from websit
 
 To that end, I've set up a [Gratipay project](https://gratipay.com/makyo) in case you would like to donate and help support my work! If you're looking for other ways to support my projects, writing as well as code, you can also check out my [Patreon](https://patreon.com/makyo), which offers incentives (oooh, incentives!) as well.
 
+<div style="text-align: center; vertical-align: center;">
 <script data-gratipay-teamslug="makyo"
   src="https://grtp.co/v2.js" async></script>
 <a href="https://www.patreon.com/bePatron?u=425636" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
+</div>
 
 ### Code
 
