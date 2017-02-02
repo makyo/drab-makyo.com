@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Makyo Creates
-redirect_from: "/makyo-codes"
+redirect_from:
+    - /makyo-codes
+    - /makyo-codes/
 ---
 
 I work on a lot of little projects here and there. I work with code: from websites to databases to command line apps. And I work with writing: from technical writing to nonfiction to stories to novels. Several of these belong to other organizations, but here I'm including only those that I directly manage. Tips are appreciated for those who liked or found useful any of these!
