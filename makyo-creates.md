@@ -1,18 +1,20 @@
 ---
 layout: default
-title: Makyo Codes
+title: Makyo Creates
+redirect_from: "/makyo-codes"
 ---
 
-I work on a lot of little projects here and there, from websites to databases to command line apps. Several of these belong to other organizations, but here I'm including only those that I directly manage. Tips are appreciated for those who liked or found useful any of these!
+I work on a lot of little projects here and there. I work with code: from websites to databases to command line apps. And I work with writing: from technical writing to nonfiction to stories to novels. Several of these belong to other organizations, but here I'm including only those that I directly manage. Tips are appreciated for those who liked or found useful any of these!
 
 To that end, I've set up a [Gratipay project](https://gratipay.com/makyo) in case you would like to donate and help support my work! If you're looking for other ways to support my projects, writing as well as code, you can also check out my [Patreon](https://patreon.com/makyo), which offers incentives (oooh, incentives!) as well.
-
 
 <script data-gratipay-teamslug="makyo"
   src="https://grtp.co/v2.js" async></script>
 <a href="https://www.patreon.com/bePatron?u=425636" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
 
-Here are the apps I'm currently working on or maintaining:
+### Code
+
+Here are the apps and projects I'm currently working on or maintaining:
 
 prose-wc
 :   Jekyll- and prose-aware wordcount
@@ -101,9 +103,28 @@ For those projects that I work on through other organizations, there may be addi
 
 * *None yet*
 
------
+### Writing
 
-Widgets (primarily for my own reference):
+Here are the writing projects I'm current working on or maintaining:
+
+[My writing site](http://writing.drab-makyo.com)
+:   I am an author of fiction, non-fiction, and poetry living in Loveland, Colorado. My interests lie in the realms of furry fiction and non-fiction, collaborative fiction, and hypertextual writing. I am a member of the Furry Writers' Guild, and editor for several projects, fiction and non-fiction.
+
+    This site collects several of my written works, as well as blog entries that touch on several topics. When a new standalone work is posted outside of the blog, a blog entry often accompanies it, so feel free to follow the blog feed for pointers to new stories, non-fiction pieces, and poems, as well as works in progress!
+
+[Post-Self](http://post-self.io) and [Exocortices](http://exocortic.es)
+:   Post-Self and Exocortices are twinned sites hosting a collaborative fiction effort. The topics surround a reasonably distant future: Exocortices occurs first and explores what it's like to live in a world where a virtual life is increasingly common, as is the concept of offloading mental work onto one's exocortex, whereas Post-Self occurs later, when the idea of a virtual life extends to the concept of uploading to actually live in such a reality.
+
+    I edit and manage these sites, as well as contribute to them.
+
+[\[adjective\]\[species\]](http://adjectivespecies.com) and [Hybrid](http://hybrid.ink)
+:   These twinned sites focus on exploring the furry subculture from within. \[a\]\[s\] takes the format of a blog, while Hybrid takes the format of a literary or academic journal.
+
+    I edit and manage these sites, as well as contribute to them.
+
+### Widgets
+
+Primarily for my own reference:
 
 [![Gratipay User](https://img.shields.io/gratipay/user/makyo.svg)](https://gratipay.com/makyo)
 
