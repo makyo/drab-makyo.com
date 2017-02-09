@@ -18,25 +18,15 @@ To that end, I've set up a [Gratipay project](https://gratipay.com/makyo) in cas
 
 ### Code
 
+#### Active development
+
 Here are the apps and projects I'm currently working on or maintaining:
-
-prose-wc
-:   Jekyll- and prose-aware wordcount
-
-    * [GitHub](https://github.com/makyo/prose-wc)
-    * [PyPI](https://pypi.python.org/pypi/prose-wc/)
 
 ffmddb
 :   Flat-file-with-metadata database
 
     * [GitHub](https://github.com/makyo/ffmddb)
     * [ReadTheDocs](https://ffmddb.rtfd.io)
-
-polycul.es
-:   Force-directed polycule visualization webapp
-
-    * [GitHub](https://github.com/makyo/polycul.es)
-    * [Website](https://polycul.es)
 
 bbbingo.me
 :   Snarky/joke bingo card generator
@@ -64,6 +54,24 @@ d3rr
 :   D3-based railroad diagram generator
 
     * [GitHub](https://github.com/makyo/d3rr)
+
+#### Maintenance
+
+These are projects that are out of active development but which are still being maintained.
+
+polycul.es
+:   Force-directed polycule visualization webapp
+
+    * [GitHub](https://github.com/makyo/polycul.es)
+    * [Website](https://polycul.es)
+
+prose-wc
+:   Jekyll- and prose-aware wordcount
+
+    * [GitHub](https://github.com/makyo/prose-wc)
+    * [PyPI](https://pypi.python.org/pypi/prose-wc/)
+
+#### Lapsed
 
 Here are some projects that have lapsed, but that I'm willing to work on again:
 
@@ -109,6 +117,8 @@ For those projects that I work on through other organizations, there may be addi
 
 ### Writing
 
+#### Projects
+
 Here are the writing projects I'm current working on or maintaining:
 
 [My writing site](http://writing.drab-makyo.com)
@@ -125,6 +135,14 @@ Here are the writing projects I'm current working on or maintaining:
 :   These twinned sites focus on exploring the furry subculture from within. \[a\]\[s\] takes the format of a blog, while Hybrid takes the format of a literary or academic journal.
 
     I edit and manage these sites, as well as contribute to them.
+
+#### Stories
+
+[*Getting Lost*](http://writing.drab-makyo.com/work/getting-lost/)
+:   A NaNoWriMo project that turned into just a regular project when I realized I wasn't a writing masochist, *Getting Lost* is a serialized novel about a world with fully-immersive computer systems and what happens when one gets lost in them.
+
+*Party* (no link yet)
+:   A novel (actually a collection of fifteen short stories) about five folks exploring boundaries and relationships through the BDSM party circuit. Each story asks a question about the relation between emotion and sex.
 
 ### Widgets
 
