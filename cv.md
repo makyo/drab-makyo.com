@@ -121,6 +121,7 @@ Teen Activity Providers' Network (TAPN)
 [Personal projects](https://github.com/makyo)
 :   additional projects not falling under a larger heading (reverse chronological order)
 
+    * [bbbingo](https://bbbingo.me) --- A website for generating and playing custom bingo cards.
     * Qoheleth --- An alternate reality game
         * [cards](https://github.com/but-death-must/cards) --- an implementation of the Solitaire stream cipher, intended to be ugly and unreadable (with a separate commented branch)
         * [qoheleth](https://github.com/but-death-must/qoheleth)
@@ -190,6 +191,7 @@ Stand-alone, personal, and unrelated projects
 :  
     2017:
 
+    * [bbbingo](https://bbbingo.me) --- a website for generating and playing custom bingo cards --- Flask application designed and self-hosted
     * [Patrons](http://patrons.drab-makyo.com) --- a site for use in conjunction with Patreon, allowing encrypted posts to be viewed by certain levels of patrons --- Jekyll site designed and hosted on GitHub
 
     2016:
