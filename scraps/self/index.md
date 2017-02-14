@@ -6,7 +6,7 @@ title: Self
 Images of myself for reference.
 
 * Composite
-    * [JPG](composite.jps)
+    * [JPG](composite.jpg)
     * [PNG](composite.png)
 * Headshot 1
     * [Original](headshot.jpg)
