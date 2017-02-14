@@ -18,7 +18,7 @@ Images of myself for reference.
 * Bust 1
     * [Original](PC010315.jpg)
 * Bust 2
-    * [Original](PC010322.jpg)
+    * We don't talk about bust 2
 * Bust 3
     * [Original](PC010326.jpg)
 * Snow fox
