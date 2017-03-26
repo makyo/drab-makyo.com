@@ -132,6 +132,72 @@ header .contact input {
     display: table;
 }
 
+.name {
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+.switcher {
+    overflow-x: hidden;
+}
+
+.switched {
+    vertical-align: top;
+    display: inline-block;
+    flex-grow: 1;
+    flex-basis: 50%;
+    transition: transform 300ms ease;
+}
+
+.switched-container {
+    vertical-align: top;
+    overflow-x: hidden;
+    width: 200%;
+    display: flex;
+    flex-direction: row;
+}
+
+.switched:first-of-type {
+    transform: translate(-100%, 0);
+}
+.switched.on:first-of-type {
+    transform: translate(0, 0);
+}
+
+.switched:last-of-type {
+    transform: translate(0, 0);
+}
+.switched.on:last-of-type {
+    transform: translate(-100%, 0);
+}
+
+.switch-container {
+    border: 2px solid #666;
+    border-radius: 2px;
+    margin: 0 auto;
+    background-color: #666;
+    padding: 1px;
+    text-align: center;
+    width: 25rem;
+}
+
+.switch, .switch:active, .switch:hover, .switch:visited {
+    display: inline-block;
+    background-color: #666;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    border: 0px solid transparent;
+    border-radius: 2px;
+    width: 11.75rem;
+}
+
+.switch.on {
+    background-color: #fff;
+    color: #333;
+    cursor: default;
+}
+
 @media only screen and (min-width: 960px) {
     header .contact {
         height: 20px;
@@ -246,5 +312,9 @@ header .contact input {
 
     header .contact address a {
         text-decoration: none;
+    }
+
+    .switch-container {
+        display: none;
     }
 }

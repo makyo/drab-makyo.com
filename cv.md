@@ -63,6 +63,12 @@ Rational Software, Inc.
 
 ### Volunteer work experience:
 
+Thurston Howl Publishing
+:   Editor --- 2017 --- *ongoing*
+
+    * Responded to queries and reviewed manuscripts
+    * Edited anthologies of shorter works
+
 Further Confusion 2017
 :   Art track lead --- 2016-2017
 
