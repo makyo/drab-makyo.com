@@ -174,22 +174,20 @@ header .contact input {
 .switch-container {
     border: 2px solid #666;
     border-radius: 2px;
-    margin: 0 auto;
+    margin: 0.5rem auto;
     background-color: #666;
     padding: 1px;
     text-align: center;
-    width: 25rem;
 }
 
 .switch, .switch:active, .switch:hover, .switch:visited {
-    display: inline-block;
+    display: block;
     background-color: #666;
     color: #fff;
     text-decoration: none;
     padding: 5px;
     border: 0px solid transparent;
     border-radius: 2px;
-    width: 11.75rem;
 }
 
 .switch.on {
@@ -259,6 +257,15 @@ header .contact input {
     .preload header .contact + .expand:after {
         color: #fff;
         height: 0px;
+    }
+
+    .switch-container {
+        width: 25rem;
+    }
+
+    .switch, .switch:active, .switch:hover, .switch:visited {
+        display: inline-block;
+        width: 11.75rem;
     }
 }
 

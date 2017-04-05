@@ -63,6 +63,12 @@ Rational Software, Inc.
 
 ### Volunteer work experience:
 
+Flipside Barcade
+:   Consultant --- 2017 --- *ongoing*
+
+    * Provided suggestions on mixed drinks
+    * Helped with choosing of bar ingredients
+
 Thurston Howl Publishing
 :   Editor --- 2017 --- *ongoing*
 
@@ -228,10 +234,10 @@ Stand-alone, personal, and unrelated projects
 
 Works published in resources not edited by Madison
 :  
-    * Article: "Gender: Furry" --- 2017 --- *Furries Among US II*
+    * Article: ["Gender: Furry"](http://writing.drab-makyo.com/non-fiction/gender-furry/) --- 2017 --- *Furries Among US II*
     * Article: ["Coming out in Tech: Communication is Key"](http://thenewstack.io/coming-out-in-tech/) --- 2016 --- The New Stack
-    * Poem: "The dogs assure me" --- 2016 --- *Civilized Beasts 2016*
-    * Short story: "Foxes and Milkshakes" --- 2016 --- Further Confusion 2016 Program
+    * Poem: ["The dogs assure me"](http://writing.drab-makyo.com/poetry/the-dogs-assure-me/) --- 2016 --- *Civilized Beasts 2016*
+    * Short story: ["Milkshakes and Foxes"](http://writing.drab-makyo.com/fiction/milkshakes-and-foxes/g/) --- 2016 --- Further Confusion 2016 Program
 
 Works published in resources edited by Madison
 :  
@@ -251,16 +257,17 @@ Discrete editorial work
 
 Ongoing editorial work
 :  
+    * [Thurston Howl Publications](http://thurstonhowlpublications.com) --- a small publishing house focusing on novels and anthologies
     * \[adjective\]\[species\]
         * [\[adjective\]\[species\]](http://adjectivespecies.com) --- a metafurry resource exploring the furry subculture, both from a furry and a nonfurry perspective
         * [Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur](http://lovesexfur.com) --- a spinoff of \[a\]\[s\] focused on relationships and sexuality
-        * [Hybrid](http://hybrid.ink) --- a themed, semiannual non-fiction publication focusing on exploring the furry subculture through a diverse range of articles, opinions, and personal stories, lightened with a dash of poetry
+        * [Hybrid](http://hybrid.ink) --- an award recognizing excellence in furry nonfiction across all media
     * [Post-Self](http://post-self.io) and [Exocortices](http://exocortic.es) --- a collaborative fiction site focusing on a far-future universe
 
 ### Ancillary work
 
 * Associate Member of the [Furry Writers' Guild](https://furrywritersguild.com)
-* Bookmarfs (website defunct) --- a book club for furries exploring and discussing written works inside and outside the fandom
+* [Bookmarfs](http://bookmarfs.com) --- a book club for furries exploring and discussing written works inside and outside the fandom
 
 ## Music
 
