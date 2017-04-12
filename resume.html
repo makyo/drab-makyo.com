@@ -3,15 +3,33 @@ layout: cv
 title: "R&eacute;sum&eacute;"
 ---
 
-<p><span class="name">Madison Scott-Clary</span> is a software engineer and writer living in Loveland, CO. She works heavily with web development, both on the front- and back-end, as well as with DevOps and cloud-based solutions. She strives to further her knowledge within both areas, as well as to expand into other fields both within and outside of software engineering and computers. As a supporter and proponent of Free and Open-Source Software, she is committed to providing the best tools and products that she can using FOSS and under OSI-approved licenses where appropriate.</p>
+<div class="switch-container static">
+    <div class="switches">
+        <a href="#tech" class="switch tech" onclick="updateExpertise('tech')">Tech R&eacute;sum&eacute;</a>
+        <a href="#editorial" class="switch editorial" onclick="updateExpertise('editorial')">Editorial R&eacute;sum&eacute;</a>
+    </div>
+</div>
+<div class="switch-container fixed hidden">
+    <div class="switches">
+        <a href="#tech" class="switch tech" onclick="updateExpertise('tech')">Tech R&eacute;sum&eacute;</a>
+        <a href="#editorial" class="switch editorial" onclick="updateExpertise('editorial')">Editorial R&eacute;sum&eacute;</a>
+    </div>
+</div>
+
+<div class="switcher">
+    <div class="switched-container">
+        <div class="switched tech">
+            <p><span class="name">Madison Scott-Clary</span> is a software engineer and writer living in Loveland, CO. She works heavily with web development, both on the front- and back-end, as well as with DevOps and cloud-based solutions. She strives to further her knowledge within both areas, as well as to expand into other fields both within and outside of software engineering and computers. As a supporter and proponent of Free and Open-Source Software, she is committed to providing the best tools and products that she can using FOSS and under OSI-approved licenses where appropriate.</p>
+        </div>
+        <div class="switched editorial">
+            <p><span class="name">Madison Scott-Clary</span> is an author, technical writer, and editor living in Loveland, CO. She works heavily with both fiction and non-fiction in an authorial and editorial role. She strives to further her knowledge within both areas, as well as to expand into other fields both within and outside of writing and editing. As a supporter and proponent of minority gender identities and sexual orientations, she pushes for positive representation and healthy role models in written works.</p>
+        </div>
+    </div>
+</div>
 
 <h2>Skills</h2>
 
 <div class="switcher">
-    <div class="switch-container">
-        <a href="#tech" class="switch tech" onclick="updateExpertise('tech')">Tech skills</a>
-        <a href="#editorial" class="switch editorial" onclick="updateExpertise('editorial')">Editorial skills</a>
-    </div>
     <div class="switched-container">
         <dl class="switched tech">
             <dt>Web development</dt>
@@ -50,10 +68,6 @@ title: "R&eacute;sum&eacute;"
 <h2>Work experience</h2>
 
 <div class="switcher">
-    <div class="switch-container">
-        <a href="#tech" class="switch tech" onclick="updateExpertise('tech')">Tech experience</a>
-        <a href="#editorial" class="switch editorial" onclick="updateExpertise('editorial')">Editorial experience</a>
-    </div>
     <div class="switched-container">
         <dl class="switched tech">
             <dt>Canonical, Ltd.</dt>
@@ -144,6 +158,13 @@ title: "R&eacute;sum&eacute;"
     <dd>Colorado State University (2004-2011) studying music composition and computer science.</dd>
 </dl>
 
+<div class="noprint">
+    <h2>Print versions</h2>
+    <ul>
+        <li><a href="/resumes/tech.pdf">Tech r&eacute;sum&eacute;</a></li>
+        <li><a href="/resumes/editorial.pdf">Editorial r&eacute;sum&eacute;</a></li>
+    </ul>
+
 <script type="text/javascript">
 window.updateExpertise = (function() {
     function updateExpertise(e) {
@@ -173,4 +194,34 @@ window.updateExpertise = (function() {
 
     return updateExpertise;
 })();
+
+window.staticSwitch = document.getElementsByClassName('static')[0];
+window.fixedSwitch = document.getElementsByClassName('fixed')[0];
+window.onscroll = function() {
+    if (window.scrollY < window.staticOffset &&
+            window.staticSwitch.classList.contains('hidden')) {
+        window.staticSwitch.classList.remove('hidden');
+        window.fixedSwitch.classList.add('hidden');
+    }
+    if (window.scrollY > window.staticOffset &&
+            window.fixedSwitch.classList.contains('hidden')) {
+        window.staticSwitch.classList.add('hidden');
+        window.fixedSwitch.classList.remove('hidden');
+    }
+}
+
+function _staticOffset() {
+    var el = window.staticSwitch;
+    if (document.body.offsetWidth > 960) {
+        window.staticOffset = el.offsetTop - el.offsetHeight;
+    } else {
+        window.staticOffset = el.offsetTop - (el.offsetHeight / 2);
+    }
+    while (el.offsetParent !== null) {
+        window.staticOffset += el.offsetTop;
+        el = el.offsetParent;
+    }
+}
+window.onresize = _staticOffset;
+window._staticOffset();
 </script>

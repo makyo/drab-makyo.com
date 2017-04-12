@@ -11,10 +11,10 @@ header,
 article {
     max-width: 960px;
     margin: 0 auto;
+    position: relative;
 }
 
 header {
-    position: relative;
     text-align: center;
     margin-top: 0.5em;
     border-top: 3px solid #333;
@@ -184,12 +184,30 @@ header .contact input {
 }
 
 .switch-container {
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+}
+.switches {
+    display: block;
     border: 2px solid #666;
     border-radius: 2px;
     margin: 0.5rem auto;
     background-color: #666;
     padding: 1px;
     text-align: center;
+}
+.switch-container.fixed {
+    position: fixed;
+    top: 0;
+    text-align: center;
+    z-index: 1000;
+}
+.switch-container.fixed.hidden {
+    display: none;
+}
+.switch-container.static.hidden {
+    visibility: hidden;
 }
 
 .switch, .switch:active, .switch:hover, .switch:visited {
@@ -272,7 +290,12 @@ header .contact input {
         height: 0px;
     }
 
-    .switch-container {
+    .switch-container.fixed {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .switches {
         width: 25rem;
     }
 
@@ -314,10 +337,20 @@ header .contact input {
         margin-top: 0px;
         padding: 1em;
     }
+    .switch-container.fixed {
+        left: 0;
+        width: 100%;
+        padding-top: 0.5em;
+    }
+    .switch-container.fixed .switches {
+        margin: 0 1em;
+    }
 }
 
 @media only print {
-    header nav {
+    header nav,
+    .switch-container,
+    .noprint {
         display: none;
     }
 
@@ -332,9 +365,5 @@ header .contact input {
 
     header .contact address a {
         text-decoration: none;
-    }
-
-    .switch-container {
-        display: none;
     }
 }
