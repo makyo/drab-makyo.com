@@ -154,6 +154,7 @@ Creativity related projects
 :  
     2017:
 
+    * [STRANGE ANIMALS LIKING STRANGE AUDIO](http://salsa.fyi) --- *S.A.L.S.A.* is a site hosting blog posts tht come out of the chat by the same name --- Jekyll site designed and hosted on GitHub
     * [Exocortices](http://exocortic.es) --- a sister-site to Post-Self focused on events before those in PS --- Jekyll site designed and hosted on GitHub
 
     2016:
