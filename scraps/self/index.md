@@ -14,6 +14,10 @@ Images of myself for reference.
     4. [Original](P5030036.jpg)
     5. [Original](P5030038.jpg)
     6. [Original](P5030040.jpg)
+    7. Newly Blue
+        1. [Original](P5090050.jpg)
+        2. [Original](P5090064.jpg)
+        3. [Original](P5090081.jpg)
 * Headshot snaps:
     1. [Original](snowfox.jpg)
     2. [Original](IMG_20170503_140423.jpg)
