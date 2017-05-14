@@ -9,22 +9,23 @@ All music on this page is released under a [Creative Commons Attribution-ShareAl
 
 ### Chorus
 
-* [I often wondered](/sounds/choral/i-often-wondered) - chorus - 2009
-* [Little Eclogue](/sounds/choral/little-eclogue) - double chorus and soloists - 2009
+* [I often wondered](/sounds/choral/i-often-wondered) --- chorus --- 2009
+* [Little Eclogue](/sounds/choral/little-eclogue) --- double chorus and soloists --- 2009
 
 ### Solo instrument
 
-* [Character Dances](/sounds/solo/character-dances) - solo piano - 2008
-* [Mirrors](/sounds/solo/mirrors) - solo piano - 2008
-* [Tempest](/sounds/solo/tempest) - solo piano - 2008
+* [Character Dances](/sounds/solo/character-dances) --- solo piano --- 2008
+* [Mirrors](/sounds/solo/mirrors) --- solo piano --- 2008
+* [Tempest](/sounds/solo/tempest) --- solo piano --- 2008
+* [Miniatures](/sounds/solo/miniatures) --- solo paino --- 2017
 
 ### Small ensemble
 
-* [Contreforts](/sounds/ensemble/contreforts) - woodwind quartet - 2008
-* [Daglarim](/sounds/ensemble/daglarim) - string quartet - 2009
-* [Duet for Horn and Contrabass](/sounds/ensemble/duet-horn-contrabass) - horn, contrabass, and percussion - 2009
-* [Mirrors](/sounds/ensemble/mirrors) - Pierrot ensemble - 2009
+* [Contreforts](/sounds/ensemble/contreforts) --- woodwind quartet --- 2008
+* [Daglarim](/sounds/ensemble/daglarim) --- string quartet --- 2009
+* [Duet for Horn and Contrabass](/sounds/ensemble/duet-horn-contrabass) --- horn, contrabass, and percussion --- 2009
+* [Mirrors](/sounds/ensemble/mirrors) --- Pierrot ensemble --- 2009
 
 ### Orchestra
 
-* [Tempest](/sounds/orchestral/tempest) - orchestra - 2010
+* [Tempest](/sounds/orchestral/tempest) --- orchestra --- 2010
