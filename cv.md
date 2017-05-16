@@ -63,6 +63,9 @@ Rational Software, Inc.
 
 ### Volunteer work experience:
 
+Furry Writers' Guild
+:   President --- 2017 --- *ongoing*
+
 Flipside Barcade
 :   Consultant --- 2017 --- *ongoing*
 
@@ -267,6 +270,7 @@ Ongoing editorial work
 
 ### Ancillary work
 
+* President of the [Furry Writers' Guild](https://furrywritersguild.com) for the 2017 cycle
 * Associate Member of the [Furry Writers' Guild](https://furrywritersguild.com)
 * [Bookmarfs](http://bookmarfs.com) --- a book club for furries exploring and discussing written works inside and outside the fandom
 
