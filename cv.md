@@ -113,6 +113,11 @@ Teen Activity Providers' Network (TAPN)
 
 ## Software development
 
+[Furry Writing Life](http://furrywriting.life)
+:   Tools for use by furry writers to help promote and advance writing within the community
+
+    * [FWLife Knowledge Base](https://github.com/makyo/kb.furrywriting.life) --- "The FWLife Knowledge Base stores information about the users and what their expertise is. It is intended as a resource for writers to let them know who to ask about what."
+
 [OpenFurry](http://openfurry.org)
 :   a community resource for open-source furry and furry-adjacent software and devs.
 
@@ -157,6 +162,7 @@ Creativity related projects
 :  
     2017:
 
+    * [FWLife Knowledge Base](http://kb.furrywriting.life) --- "The FWLife Knowledge Base stores information about the users and what their expertise is. It is intended as a resource for writers to let them know who to ask about what."
     * [STRANGE ANIMALS LIKING STRANGE AUDIO](http://salsa.fyi) --- *S.A.L.S.A.* is a site hosting blog posts tht come out of the chat by the same name --- Jekyll site designed and hosted on GitHub
     * [Exocortices](http://exocortic.es) --- a sister-site to Post-Self focused on events before those in PS --- Jekyll site designed and hosted on GitHub
 
