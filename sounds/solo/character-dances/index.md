@@ -15,7 +15,7 @@ Everyone has characters in their lives. These five process-pieces explore some o
 
 ### Score
 
-* [Full score](/sounds/solo/character-dances/Full.pdf)
+* [Full score](/sounds/solo/character-dances/CharacterDances.pdf)
 * Movements:
     * [AS](/sounds/solo/character-dances/AS.pdf)
     * [TW](/sounds/solo/character-dances/TW.pdf)

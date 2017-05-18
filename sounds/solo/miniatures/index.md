@@ -11,4 +11,6 @@ A series of miniatures. I started numbering them in the hope that I would be ins
 
 ### Score
 
-1. [Score](1.pdf)
+* [Full](/sounds/solo/miniatures/Miniatures.pdf)
+* Movements:
+    * [Number 1](/sounds/solo/miniatures/1.pdf)
