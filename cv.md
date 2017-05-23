@@ -7,6 +7,13 @@ title: "Curriculum Vit&aelig;"
 
 ### Paid work experience:
 
+Thurston Howl Publishing
+:   Editor --- 2017 --- *ongoing*
+
+    * Responded to queries and reviewed manuscripts
+    * Edited anthologies of shorter works
+    * Copyedited and formatted books, including overall layout in (Xe)LaTeX and Word
+
 Canonical, Ltd.
 :   Software engineer --- 2012-*present*
 
@@ -61,10 +68,7 @@ Rational Software, Inc.
 
     * Tested the software Requisite Pro and reported test findings to superiors
 
-### Volunteer work experience:
-
-Furry Writers' Guild
-:   President --- 2017 --- *ongoing*
+### Consulting experience
 
 Flipside Barcade
 :   Consultant --- 2017 --- *ongoing*
@@ -72,11 +76,21 @@ Flipside Barcade
     * Provided suggestions on mixed drinks
     * Helped with choosing of bar ingredients
 
-Thurston Howl Publishing
-:   Editor --- 2017 --- *ongoing*
+InkWorks
+:   Web developer and designer --- 2010-2012
 
-    * Responded to queries and reviewed manuscripts
-    * Edited anthologies of shorter works
+    * Hosted and implemented a website for a local print shop, including the ability to send files to be printed on demand and ready for pick-up
+
+Elliot's Martini Bar
+:   Web developer and designer --- 2010-2012
+
+    * Helped design the bar menu to the lead bartender's specifications and managed print runs
+    * Designed and implemented a website for Elliot's Martini Bar
+
+### Volunteer work experience:
+
+Furry Writers' Guild
+:   President --- 2017 --- *ongoing*
 
 Further Confusion 2017
 :   Art track lead --- 2016-2017
@@ -94,17 +108,6 @@ Colorado Bach Ensemble
 :   Web developer --- 2011-2012
 
     * Hosted and implemented a website based on designs provided by a volunteer designer
-
-InkWorks
-:   Web developer and designer --- 2010-2012
-
-    * Hosted and implemented a website for a local print shop, including the ability to send files to be printed on demand and ready for pick-up
-
-Elliot's Martini Bar
-:   Web developer and designer --- 2010-2012
-
-    * Helped design the bar menu to the lead bartender's specifications and managed print runs
-    * Designed and implemented a website for Elliot's Martini Bar
 
 Teen Activity Providers' Network (TAPN)
 :   Web developer --- 2002-2003
