@@ -20,10 +20,12 @@ Images of myself for reference.
         3. [Original](P5090081.jpg)
     8. Wow Even More Colors
         1. [Original](P6150063.jpg)
+        2. [Original](P6210122.jpg)
 * Headshot snaps:
     1. [Original](snowfox.jpg)
     2. [Original](IMG_20170503_140423.jpg)
     3. [Original](IMG_20170503_151610.jpg)
+    4. [Original](travel-makeup.jpg)
 * Candids
     1. [Lecture](panel.png)
 * Busts
