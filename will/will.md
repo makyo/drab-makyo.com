@@ -1,9 +1,9 @@
 Last Will and Testament of Madison Jesse Scott-Clary
 ====================================================
 
-I, Madison Jesse Scott-Clary, being of sound mind, do hereby make, publish, and declare this to be my last will and testament, hereby revoking all wills and testaments by me heretofore made.
+I, Madison Jesse Scott-Clary, being of sound mind, do hereby make, publish, and declare this to be my last will and testament, hereby revoking all wills and codicils by me heretofore made.
 
-This document is attested to in holographic fashion by a signed and dated paper affidavit, and is digitally signed in turn using my [well known and trusted PGP key](http://pgp.mit.edu/pks/lookup?op=get&search=0x8361A9B7C55309AB). Both handwritten affidavit and digital signature must be in place for this will to be held valid.
+This document is attested to in holographic fashion by a signed and dated paper will, and is digitally signed in turn using my [well known and trusted PGP key](http://pgp.mit.edu/pks/lookup?op=get&search=0x8361A9B7C55309AB). Both handwritten will and digital signature must be in place for this will to be held valid.
 
 Article 1: Representatives and Named Beneficiaries
 --------------------------------------------------
