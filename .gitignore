@@ -2,3 +2,5 @@ _site
 .DS_STORE
 *.aux
 *.log
+will/_letters.md
+.bundle

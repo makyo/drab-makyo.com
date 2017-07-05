@@ -146,6 +146,24 @@ tbody td, thead th {
     vertical-align: top;
 }
 
+.will {
+    font-family: "Gentium book basic", serif;
+    padding: 1em;
+    background: #eefaee;
+    border: 2px solid #cdc;
+    border-radius: 3px;
+}
+.will * {
+    font-family: "Gentium book basic", serif;
+}
+.will h1 {
+    font-size: 2em;
+    text-align: center;
+}
+.verse {
+    white-space: pre-wrap;
+}
+
 @media only screen and (max-width: 500px) {
     #skip-links,
     header h1 span {
