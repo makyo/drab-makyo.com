@@ -90,7 +90,7 @@ footer {
 .headshot {
     float:left;
     width: 40%;
-    padding-right:1em;
+    padding: 0 1em 1em 0;
 }
 
 hr {

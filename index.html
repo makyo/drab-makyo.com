@@ -11,26 +11,41 @@ title: Home
     &bullet; <a href="/cv">Curriculum Vit&aelig;</a><br />
     <a href="/contact">Contact information</a>
 </p>
+<dl>
+    <dt><a href="https://github.com/makyo">Code</a></dt>
+    <dd>Source for projects for work or fun.</dd>
+    <dt><a href="http://writing.drab-makyo.com">Words</a></dt>
+    <dd>All of my writing, or at least most of it. Includes fiction, non-fiction, and some blogging.</dd>
+    <dt><a href="https://makyo.photography">Sights</a></dt>
+    <dd>Photography from various projects to plain old snaps.</dd>
+    <dt><a href="http://sounds.drab-makyo.com">Sounds</a></dt>
+    <dd>Sheet music of compositions, recording of performances, and other various sounds.</dd>
+    <dt><a href="/makyo-creates">Support</a></dt>
+    <dd>Patreon and Gratipay to help support me in the stuff I create.</dd>
+</dl>
 <p style="font-size: 75%">Curious about the name change? See <a href="/changes">here</a>.</p>
 <br clear="all" />
+<!-- In progress...
 <hr />
-<section class="pure-g-r">
-{% for post in site.posts %}
-    {% unless post.tags contains 'noindex' %}
-    <div class="post">
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p>Posted in {% for category in post.categories %}{% if category != "posts" %}<a href="/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} {% endif %}{% endfor %} on {{ post.date|date_to_string }}</p>
-        <div class="post-content">
-            {{ post.content }}
-            {% if post.image %}
-            <div class="post-image">
-                <a href="{{ post.url }}"><img src="{{ post.image }}" /></a>
-            </div>
-            {% endif %}
-        </div>
-    </div>
-    {% endunless %}
-{% endfor %}
-</section>
+<h2>Projects</h2>
+<h3>Words</h3>
+<dl>
+    <dt><a href="http://post-self.io">Post-Self</a> and <a href="http://exocortic.es">Exocortices</a></dt>
+    <dd>Post-Self and Exocortices are a pair of collaborative fiction projects focusing on a far-future universe where the idea of <em>self</em> begins to blur.</dd>
 
-<br clear="all" />
+    <dt><a href="http://adjectivespecies.com">[adjective][species]</a></dt>
+    <dd>[adjective][species] is a meta-furry blog exploring what it means to be a member of the furry subculture.</dd>
+
+    <dt><a href="http://mealtime.with.maddypa.ws">MEALTIME WITH MADDy</a></dt>
+    <dd>LOUD FOOD with MADISON SCOTT-CLARY &mdash; a cookbook and blog of hollered recipes.</dd>
+</dl>
+
+<h3>Sounds</h3>
+<dl>
+    <dt><a href="http://sounds.drab-makyo.com">Sounds</a></dt>
+    <dd>Compositions and sheet music, recordings, electronic music, and all sorts of musical things collected in one place.</dd>
+
+    <dt><a href="http://strangeanimals.likingstrange.audio">Strange Animals Liking Strange Audio</a></dt>
+    <dd>A music blog spun off from SALSA, a telegram chat of folks talking about music.</dd>
+</dl>
+-->
