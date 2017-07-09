@@ -11,3 +11,5 @@ The following is my last will and testament. I have no real plans on dying anyti
 </div>
 
 [Signed Will](signed-will.md.asc) --- only this signed copy shall be considered valid.
+
+[Letters](letters) --- some words for after I'm gone.
