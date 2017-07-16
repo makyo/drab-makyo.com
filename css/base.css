@@ -146,6 +146,10 @@ tbody td, thead th {
     vertical-align: top;
 }
 
+dt {
+    font-style: italic;
+}
+
 .will {
     font-family: "Gentium book basic", serif;
     padding: 1em;

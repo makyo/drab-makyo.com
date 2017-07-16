@@ -21,20 +21,17 @@ Gender and Furry
 
 ### Presentation topics
 
-Social --- Furry
+Furry
 :   Furry is a subculture focused on the appreciation of and identification with anthropomorphized animals. I have been working with and studying furry since 2011, and have considered myself a part of the subculture since 2000. Over this time, I have amassed tens of thousands of results from a dozen or so surveys, and have been writing about the data and the experiences of both myself and others through several outlets, published online and in print.
 
-Tech --- Being trans in tech
-:   *coming soon*
+Being trans in tech
+:   Tech and gender have a long and storied history, and this is complicated by transgender folks. I have written and thought about my experiences in tech as a trans woman extensively, with work appearing on a blog and on the tech site The New Stack. I love talking about the process of coming out, the things that work and don't work for trans folks in tech, and ways to improve for both employers and employees.
 
-Tech --- Telling stories with technology
-:   *coming soon*
+Telling stories with technology
+:   In what ways can the technology that surrounds us help us tell stories? Is it utilizing the 'chat' feature on Tumblr to tell a story through instant messages? Is it running Augmented Reality Games using physical and digital tokens? Can the presentation of the story be a part of the story itself? I enjoy talking about technology and how it interacts with a story it's being used to tell, from ARGs to Tumblr to Twine.
 
-Writing --- Creative non-fiction
-:   *coming soon*
+Creative non-fiction
+:   Non-fiction has a reputation for being dry. Research materials, textbooks, and newspapers immediately come to mind. However, there are many instances of true stories being told in creative ways, from emotionally touching memoirs to gripping works of investigative journalism, from photoessays presented on slick websites to interactive data visualizations that let the reader explore interactions. All of these are things that I enjoy thinking writing, and talking about.
 
-Writing --- Writiing technologies
-:   *coming soon*
-
-Writing --- Typesetting a novel from start to finish with LaTeX
-:   *coming soon*
+Writiing technologies
+:   There are many different bits of technology that we use for writing. For some, it's as simple as pen and paper. Then there's the typewriter. And computers. And laptops and tablets and phones and speech-to-text and OCR. There are dozens and dozens of pieces of software used in writing, from Scrivener to Word to LibreOffice to vi and emacs. There's hundreds of presentation formats for sharing one's work online, and there are perhaps just as many ways of preparing one's work for print. I've focused the techie's obsession over tooling into specifically tooling for writing, and have *lots* to say about it.
