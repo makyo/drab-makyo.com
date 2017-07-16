@@ -89,8 +89,26 @@ Elliot's Martini Bar
 
 ### Volunteer work experience:
 
+Further Confusion 2018
+:   Writing track second --- 2017-2018
+
+    * Assisted Watts Martin, the writing track lead
+    * Helped manage panel submissions and communications between the programming department and panelists for presentations within the art track
+    * Helped with PTK, the web application used to manage panels and panelists for the convention
+    * Helped organize panels and panelists at the convention itself
+
+Furry Migration 2017
+:   Guest of honor representing the Furry Writers' Guild along with vice president Watts Martin --- 2017
+
+    * Represented the Guild to help promote both it and the members to a wider audience
+    * Participated in panels on writing to give input from an organizational, technical, and social angle
+
 Furry Writers' Guild
 :   President --- 2017 --- *ongoing*
+
+    * Organized and encouraged discussion surrounding the Guild's goals and direction
+    * Helped run day-to-day aspects of the Guild along with vice president Watts Martin
+    * Worked with community moderators to keep Guild spaces running smoothly
 
 Further Confusion 2017
 :   Art track lead --- 2016-2017
