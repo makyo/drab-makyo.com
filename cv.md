@@ -184,7 +184,7 @@ Creativity related projects
     2017:
 
     * [MEALTIME WITH MADDY](http://mealtime.with.maddypa.ws) --- A blog and an upcoming book of LOUD FOOD --- Jekyll site designed and hosted on GitHub.
-    * [FWLife Knowledge Base](http://kb.furrywriting.life) --- "The FWLife Knowledge Base stores information about the users and what their expertise is. It is intended as a resource for writers to let them know who to ask about what."
+    * [FWLife Knowledge Base](http://kb.furrywriting.life) --- "The FWLife Knowledge Base stores information about the users and what their expertise is. It is intended as a resource for writers to let them know who to ask about what." --- Flask+React web application designed and self-hosted.
     * [STRANGE ANIMALS LIKING STRANGE AUDIO](http://salsa.fyi) --- *S.A.L.S.A.* is a site hosting blog posts that come out of the chat by the same name --- Jekyll site designed and hosted on GitHub
     * [Exocortices](http://exocortic.es) --- a sister-site to Post-Self focused on events before those in PS --- Jekyll site designed and hosted on GitHub
 
