@@ -150,6 +150,11 @@ dt {
     font-style: italic;
 }
 
+iframe {
+    width: 100%;
+    height: 200px;
+}
+
 .will {
     font-family: "Gentium book basic", serif;
     padding: 1em;
