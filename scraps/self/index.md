@@ -22,8 +22,11 @@ Images of myself for reference.
         1. [Original](P6150063.jpg)
         2. [Original](P6210122.jpg)
     9. What if plaid?
-        1. [Original](P9100302-edit-crop.jpg)
-        2. [Original](P9100305-edit-crop.jpg)
+        1. [Original](P9100297-smoothed.jpg)
+        2. [Original](P9100298-smoothed.jpg)
+        3. [Original](P9100302-smoothed.jpg)
+        4. [Original](P9100305-smoothed.jpg)
+        5. [Original](P9100309-smoothed.jpg)
 * Headshot snaps:
     1. [Original](snowfox.jpg)
     2. [Original](IMG_20170503_140423.jpg)
