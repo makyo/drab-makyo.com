@@ -71,7 +71,7 @@ Rational Software, Inc.
 ### Consulting experience
 
 Flipside Barcade
-:   Consultant --- 2017 --- *ongoing*
+:   Consultant --- 2017
 
     * Provided suggestions on mixed drinks
     * Helped with choosing of bar ingredients
@@ -266,9 +266,10 @@ Stand-alone, personal, and unrelated projects
 
 Works published in resources not edited by Madison
 :  
-    * Article: ["Gender: Furry"](http://writing.drab-makyo.com/non-fiction/gender-furry/) --- 2017 --- *Furries Among US II*
+    * Short story: ["Centerpiece"](http://writing.drab-makyo.com/fiction/sawtooth/party/centerpiece/) --- (estimated) 2018 --- *Knotted: A BDSM Anthology Vol. 2*
+    * Article: ["Gender: Furry"](http://writing.drab-makyo.com/non-fiction/gender-furry/) --- 2017 --- [*Furries Among US II*](https://www.amazon.com/dp/1945247118)
     * Article: ["Coming out in Tech: Communication is Key"](http://thenewstack.io/coming-out-in-tech/) --- 2016 --- The New Stack
-    * Poem: ["The dogs assure me"](http://writing.drab-makyo.com/poetry/the-dogs-assure-me/) --- 2016 --- *Civilized Beasts 2016*
+    * Poem: ["The dogs assure me"](http://writing.drab-makyo.com/poetry/the-dogs-assure-me/) --- 2017 --- [*Civilized Beasts II*](https://www.amazon.com/dp/0692934758)
     * Short story: ["Milkshakes and Foxes"](http://writing.drab-makyo.com/fiction/milkshakes-and-foxes/g/) --- 2016 --- Further Confusion 2016 Program
 
 Works published in resources edited by Madison
