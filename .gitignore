@@ -4,3 +4,4 @@ _site
 *.log
 will/_letters.md
 .bundle
+.jekyll-metadata
