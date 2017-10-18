@@ -13,6 +13,7 @@ Article 1: Representatives and Named Beneficiaries
     1. James Clary --- Husband --- Loveland, CO
     2. Russel Reed --- Partner --- Redwood City, CA
     3. Conor McKeown --- Partner --- Leicester, Leicestershire, UK
+    4. JC Sackett --- Partner --- Durham, NC
 3. Parents:
     1. Donna Karr --- Mother --- Tulchas, NM
     2. Ronald Scott --- Father --- Lakewood, CO
@@ -22,13 +23,17 @@ Article 2: Responsibilities and Obligations
 -------------------------------------------
 
 1. **Dogs:** James Clary shall assume full responsibility for our dogs. Should he be unable or unwilling to claim such, responsibility will fall to Donna Karr.
+2. **Debt:** individual debt to be paid through liquid assets.
 
 Article 3: Assets
 -----------------
 
 ### Section 1: Property
 
-1. All property held jointly through Joint Tenancy or Tenants in Common with James Clary shall revert solely to him.
+1. All property held jointly through Joint Tenancy or Tenants in Common with James Clary shall revert solely to him. This should be:
+    * 6216 Becker Ln., Loveland, CO 80538
+    * 615 Andrea St., Fort Collins, CO 80524
+    * Hyundai Ioniq (car)
 
 ### Section 2. Physical Assets
 
@@ -45,7 +50,7 @@ Article 3: Assets
     * To James Clary: you can have my guns so long as you *use them*.
     * To Russel Reed: all my music on physical media. All CDs, vinyl, and the one cassette tape I own. You became the musical connection in my life.
     * To Conor McKeown: every single corgi-themed thing I owned. You're my number one best corgi, after all.
-    * To J.C. Sackett (Durham, NC): my plush arctic fox, so that you can have a proxy fox of your own.
+    * To J.C. Sackett: the rest of my stuffed animals, in the hope that they're as comforting to you as you are to me.
     * To Jamie Culpon (San Jose, CA): my hard-bound, gold-trimmed copy of *Dune*, in the hopes that it keeps giving you strange and wonderful thoughts about the bene geserit.
     * To Paul Rapoport (Chicago, IL): my copy of *S*. Perhaps the story will be even more complete if you have two of them.
     * To Kevin Frane (San Jose, CA): my two pieces of brush calligraphy wall art. One is a blessing for your home, and the other a poem.
@@ -54,7 +59,7 @@ Article 3: Assets
 
 ### Section 3: Digital Assets
 
-1. Digital assets are to be transferred off of my laptops onto an external drive, and each laptop is to be wiped and sold. I lived and worked on the damn things, get rid of them now that I'm gone.
+1. Digital assets are to be transferred off of my laptops and phones onto an external drive, and each laptop is to be wiped and sold. I lived and worked on the damn things, get rid of them now that I'm gone.
 2. The Polycule can decide what to keep and not from those external copies.
 
 ### Section 4: Hosted Assets
@@ -103,13 +108,8 @@ Article 5: Remains
 3. What is to be done with my ashes is up to The Polycule and my parents.
 4. No physical monument of any type is to be erected or placed with my estate or the resulting funds. If my acts in life and the works I've made do not stand on their own, then I don't deserve one; if they do, I don't need one.
 
-Amendments
-----------
-
-None
-
 ----------
 
 Digitally signed by Madison Jesse Scott-Clary.
 
-Date of signature: June 05, 2017
+Date of signature: October 15, 2017
