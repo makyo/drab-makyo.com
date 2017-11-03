@@ -56,6 +56,8 @@ Article 3: Assets
     * To Kevin Frane (San Jose, CA): my two pieces of brush calligraphy wall art. One is a blessing for your home, and the other a poem.
     * To Zech Castner (Loveland, CO): all of my brewing supplies, so long as you *use them*.
     * To Alex Osaki (Berlin, Germany): my BitBucket account, which hosts raw dumps of all Furry Survey data, for you to do with what you please.
+4. The following additional suggestions are made:
+    * Selling the tea as a lot would probably be easiest. There are many collectors.
 
 ### Section 3: Digital Assets
 
