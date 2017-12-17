@@ -2,6 +2,6 @@ _site
 .DS_STORE
 *.aux
 *.log
-will/_letters.md
+will/_*
 .bundle
 .jekyll-metadata
