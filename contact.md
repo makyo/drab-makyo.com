@@ -15,4 +15,5 @@ title: Contact information
 | ![Wire](/assets/wire.png) Wire | @makyo |
 | ![FurAffinity.net](/assets/fa.png) FurAffinity.net | [makyo](http://furaff.net/makyo) |
 | ![SoFurry](/assets/sf.png) SoFurry | [makyo](https://makyo.sofurry.com) |
+
 <!-- | Physical | Madison Jesse Scott-Clary<br />6811 Commercial Ave.<br />Everett, WA 98203<br />[303-818-5943](tel:+13038185943) (Signal capable) | -->
