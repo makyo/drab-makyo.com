@@ -11,12 +11,12 @@ Article 1: Representatives and Named Beneficiaries
 1. James Clary shall be my personal representative in the execution of my estate.
 2. The named beneficiares are as follows:
     1. "The Polycule" refers to:
-        1. James Clary --- Husband --- Loveland, CO
-        2. Russel Reed --- Partner --- Redwood City, CA
-        3. Conor McKeown --- Partner --- Leicester, Leicestershire, UK
+        * James Clary --- Husband --- Loveland, CO
+        * Russel Reed --- Partner --- Redwood City, CA
+        * Conor McKeown --- Partner --- Leicester, Leicestershire, UK
     2. Parents:
-        1. Donna Karr --- Mother --- Tulchas, NM
-        2. Ronald Scott --- Father --- Lakewood, CO
+        * Donna Karr --- Mother --- Tulchas, NM
+        * Ronald Scott --- Father --- Lakewood, CO
 3. The Polycule shall have the right to appoint a literary executor as a representative with the understanding that they will abide by my intellectual property wishes set forth in Article 4.
 
 Article 2: Responsibilities and Obligations
@@ -46,7 +46,7 @@ Article 3: Assets
     2. Beneficiaries may not receive any remaining assets through sale, donation, or disposal. Please, James, get rid of my stuff for real.
 3. To the following, above and beyond the "three each" clause:
     * To The Polycule: you have your proxy foxes. You may have your proxy selves with my blessing.
-    * To James Clary (Everett, WA): you can have my guns so long as you *use them*.
+    * To James Clary (Everett, WA): you may have my collar. It was always yours.
     * To Russel Reed (Redwood City, CA): all my music on physical media. All CDs, vinyl, and the one cassette tape I own. You became the musical connection in my life.
     * To Conor McKeown (Leics, UK): every single corgi-themed thing I owned. You're my number one best corgi, after all.
     * To J.C. Sackett (Durham, NC): the rest of my stuffed animals, in the hope that they're as comforting to you as you are to me.
@@ -67,9 +67,10 @@ Article 3: Assets
 
 1. No posts, messages, or content are to be made on my behalf.
 2. Many online services have rules and regulations surrounding death of an account holder. These are to be honored above my wishes.
-3. Dropbox will delete an account after 90 days of inactivity. This is to be allowed with two exceptions (note that per the transfer in *article 3, section 3*, this will happen anyway):
+3. Dropbox will delete an account after 90 days of inactivity. This is to be allowed with the following exceptions (note that per the transfer in *article 3, section 3*, this will happen anyway):
     * The `commissions` folder in there contains art; feel free to snag that.
     * The `Thurston` folder contains documents that Thurston Howl Publications may need. Send this folder to them the address in the notification document specified in *article 5, section 1*.
+    * The `HYBRID` folder contains all documents pertaining to the operation of Hybrid Ink, LLC minus the source for Hybrid Ink projects such as `hybrid.ink` and `pubtracker`, and is to be managed per *article 3, section 7*.
 4. Twitter account to be left as a memorial and warning against spending too much time online shitposting.
 5. Mastodon account to be left as is.
 6. Telegram account self-destructs after six months.
@@ -85,8 +86,19 @@ Article 3: Assets
 ### Section 6: Liquid Assets
 
 1. Upon execution of this will and the closing of the estate, all remaining liquid assets are to be either:
-    1. donated to individuals through the crowdfunding sites YouCaring.com and GoFundMe.com requesting financial help for medical gender transition (hormones, therapy, surgery, etc). *Or*
-    2. held in the trust of a foundation aiming to help with the same.
+    * donated to individuals through the crowdfunding sites YouCaring.com and GoFundMe.com requesting financial help for medical gender transition (hormones, therapy, surgery, etc). *Or*
+    * held in the trust of a foundation aiming to help with medical gender transition (hormones, therapy, surgery, etc).
+
+### Section 7: Hybrid Ink Assets
+
+1. I have sole ownership of Hybrid Ink, LLC.
+2. All authors with accepted projects must be notified of my death with a link to a publicly available obituary or news article.
+3. There are two options:
+    1. All active contracts may be terminated by means of a signed termination agreement between my estate and the other party and the business to be shuttered. In this instance:
+        * all products must be unlisted from the Gumroad, Amazon, and any other stores;
+        * any royalty payments must be made for up to one year; *and*
+        * contracts and termination agreements kept for at least five years.
+    2. Ownership of the business is to be transferred wholesale to another party, either through sale, gift, or inheritance. In this case, contracts are to remain in force for their duration with unaltered terms attested to by a signed agreement with the new owner and the other party, with the option for the other party to terminate their agreement.
 
 Article 4: Intellectual Property
 --------------------------------
@@ -122,7 +134,7 @@ Article 5: Personal Requests
 2. Some notifications may be completed over email.
 3. MUCK accounts are more difficult, but I have a few friends on there that deserve to know what happened, but am not in contact with elsewhere. Preferably, find a friend (Indi, Kauko, Krinn, etc) who can connect and notify those individuals and provide a link to a publicly available obituary or news article.
 
-### Section 2: Obituaries or Articles
+### Section 2: Services, Obituaries, or Articles
 
 1. Please do not be shy in mentioning furry. This subculture means a hell of a lot to me, I don't want that downplayed.
 2. Please do not be shy about poly. I love my polycule, and others besides. Reducing my relationships to the one that's legally binding would be an insult.
@@ -139,4 +151,4 @@ Article 6: Remains
 
 Digitally signed by Madison Jesse Scott-Clary.
 
-Date of signature: December 17, 2017
+Date of signature: February 23, 2018
