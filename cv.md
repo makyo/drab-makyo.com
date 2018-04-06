@@ -7,8 +7,15 @@ title: "Curriculum Vit&aelig;"
 
 ### Paid work experience:
 
+Hybrid Ink, LLC,
+:   Editor-in-chief --- 2018-*present*
+
+    * Shepherded publications --- both fiction and non --- from the query process through final publication and sales.
+    * Worked with authors through the editorial and promotion process.
+    * Created and maintained several advertising and sales channels
+
 Thurston Howl Publishing
-:   Editor --- 2017 --- *ongoing*
+:   Editor --- 2017-2018
 
     * Responded to queries and reviewed manuscripts
     * Edited anthologies of shorter works
@@ -24,6 +31,8 @@ Canonical, Ltd.
         * Python-based juju-bundlelib library, which broke a bundle down into the composite steps needed to deploy it (bundle changes), information that can be consumed by the Juju GUI
         * Go-based jujusvg library, which generated an SVG image of a bundle as it would appear on the Juju GUI's canvas
         * Go-based bundleservice and corresponding charm, which provided an API endpoint for generating both the bundle changes and bundle SVG
+    * Implemented client libraries in both JavaScript and Python for interacting with varied microservices.
+    * Helped with continued support of projects and their corresponding charms, such as the Extended Support Mechanism allowing for support for older versions of Ubuntu, and the Livepatch service allowing for serving kernel patches to be applied without reboot.
 
 bConnected Software/Optum Health/United Health Group
 :   Software engineer --- 2011-2012
@@ -134,13 +143,18 @@ Teen Activity Providers' Network (TAPN)
 
 ## Software development
 
+[Hybrid Ink, LLC](https://hybrid.ink)
+:   A small publishing company focusing on thoughtful writing.
+
+    * [Hybrid Tracker](https://github.com/hybridink/tracker) --- A tool to track the process of publication from query to sales.
+
 [Furry Writing Life](http://furrywriting.life)
 :   Tools for use by furry writers to help promote and advance writing within the community
 
     * [FWLife Knowledge Base](https://github.com/makyo/kb.furrywriting.life) --- "The FWLife Knowledge Base stores information about the users and what their expertise is. It is intended as a resource for writers to let them know who to ask about what."
 
 [OpenFurry](http://openfurry.org)
-:   a community resource for open-source furry and furry-adjacent software and devs.
+:   A community resource for open-source furry and furry-adjacent software and devs.
 
     Projects led:
 
@@ -181,6 +195,10 @@ Teen Activity Providers' Network (TAPN)
 
 Creativity related projects
 :  
+    2018:
+
+    * [Hybrid](http://hybrid.ink) --- A publishing company focused on thoughtful writing --- Jekyll site designed and hosted on Netlify
+
     2017:
 
     * [MEALTIME WITH MADDY](http://mealtime.with.maddypa.ws) --- A blog and an upcoming book of LOUD FOOD --- Jekyll site designed and hosted on GitHub.
@@ -193,11 +211,10 @@ Creativity related projects
     * [Post-Self](http://post-self.io) --- a collaborative fiction site focusing on a far-future universe --- Jekyll site designed and hosted on GitHub
     * [Honeycomb Cafe](http://alopex.honeycomb.cafe) --- an alpha/CD implementation of a site for writers, readers, and publishers --- Django application designed and self-hosted
     * <https://submit.drab-makyo.com> --- an instance of Submitify, a writing submission and reviewing tool --- Django application designed and self-hosted
-    * [Hybrid](http://hybrid.ink) --- a metafurry journal appearing both in print and digital formats --- Jekyll site designed and hosted on GitHub
 
     2012:
 
-    * Bookmarfs (defunct) --- a furry book club --- Wordpress site designed and self-hosted
+    * [Bookmarfs!](http://bookmarfs.com) --- a furry book club --- Jekyll site designed and hosted on Github
 
     2011:
 
@@ -266,6 +283,7 @@ Stand-alone, personal, and unrelated projects
 
 Works published in resources not edited by Madison
 :  
+    * Short story: *Disappearance* --- (estimated) 2018 --- *Hot Dish vol. 3*
     * Short story: ["Centerpiece"](http://writing.drab-makyo.com/fiction/sawtooth/party/centerpiece/) --- (estimated) 2018 --- *Knotted: A BDSM Anthology Vol. 2*
     * Article: ["Gender: Furry"](http://writing.drab-makyo.com/non-fiction/gender-furry/) --- 2017 --- [*Furries Among US II*](https://www.amazon.com/dp/1945247118)
     * Article: ["Coming out in Tech: Communication is Key"](http://thenewstack.io/coming-out-in-tech/) --- 2016 --- The New Stack
@@ -290,12 +308,15 @@ Discrete editorial work
 
 Ongoing editorial work
 :  
-    * [Thurston Howl Publications](http://thurstonhowlpublications.com) --- a small publishing house focusing on novels and anthologies
+    * [Hybrid Ink, LLC](https://hybrid.ink) --- a small publisher focusing on thoughtful writing
     * \[adjective\]\[species\]
         * [\[adjective\]\[species\]](http://adjectivespecies.com) --- a metafurry resource exploring the furry subculture, both from a furry and a nonfurry perspective
         * [Love <span class="bullet"></span> Sex <span class="bullet"></span> Fur](http://lovesexfur.com) --- a spinoff of \[a\]\[s\] focused on relationships and sexuality
-        * [Hybrid](http://hybrid.ink) --- an award recognizing excellence in furry nonfiction across all media
     * [Post-Self](http://post-self.io) and [Exocortices](http://exocortic.es) --- a collaborative fiction site focusing on a far-future universe
+
+Past editorial work
+:  
+    * [Thurston Howl Publications](http://thurstonhowlpublications.com) --- a small publishing house focusing on novels and anthologies
 
 ### Ancillary work
 
