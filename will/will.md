@@ -142,13 +142,14 @@ Article 5: Personal Requests
 Article 6: Remains
 ------------------
 
-1. I am an organ donor.
-2. After any and all such donations have been made, whatever is left is to be cremated.
-3. What is to be done with my ashes is up to The Polycule and my parents.
-4. No physical monument of any type is to be erected or placed using my estate or the resulting funds. If my acts in life and the works I've made do not stand on their own, then I don't deserve one; if they do, I don't need one.
+1. I am an organ donor. Any and all possible organs may be donated.
+2. An autopsy may be performed if there are questions about the cause(s) of my death.
+3. After any and all such donations and/or autopsies have been made, my remains are to be cremated.
+4. What is to be done with my ashes is up to The Polycule and my parents.
+5. No physical monument of any type is to be erected or placed using my estate or the resulting funds. If my acts in life and the works I've made do not stand on their own, then I don't deserve one; if they do, I don't need one.
 
 ----------
 
 Digitally signed by Madison Jesse Scott-Clary.
 
-Date of signature: February 23, 2018
+Date of signature: April 9, 2018
