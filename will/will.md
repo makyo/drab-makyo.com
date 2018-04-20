@@ -10,8 +10,8 @@ Article 1: Representatives and Named Beneficiaries
 
 1. James Clary shall be my personal representative in the execution of my estate.
 2. The named beneficiares are as follows:
-    1. "The Polycule" refers to:
-        * James Clary --- Husband --- Loveland, CO
+    1. "The Polycule", in this document, refers to:
+        * James Clary --- Husband --- Everett, WA
         * Russel Reed --- Partner --- Redwood City, CA
         * Conor McKeown --- Partner --- Leicester, Leicestershire, UK
     2. Parents:
@@ -45,22 +45,21 @@ Article 3: Assets
     1. All funds from sold assets are to be treated as liquid assets under *article 3, section 6*.
     2. Beneficiaries may not receive any remaining assets through sale, donation, or disposal. Please, James, get rid of my stuff for real.
 3. To the following, above and beyond the "three each" clause:
-    * To The Polycule: you have your proxy foxes. You may have your proxy selves with my blessing.
+    * To The Polycule: you have your proxy foxes and cats. You may have your proxy selves with my blessing.
     * To James Clary (Everett, WA): you may have my collar. It was always yours.
-    * To Russel Reed (Redwood City, CA): all my music on physical media. All CDs, vinyl, and the one cassette tape I own. You became the musical connection in my life.
+    * To Russel Reed (Redwood City, CA): all my music on physical media. All CDs, vinyl, and the one cassette tape I own, plus any sheet music you  may want. You became the musical connection in my life.
     * To Conor McKeown (Leics, UK): every single corgi-themed thing I owned. You're my number one best corgi, after all.
-    * To J.C. Sackett (Durham, NC): the rest of my stuffed animals, in the hope that they're as comforting to you as you are to me.
+    * To Justin Coffman (Charlotte, NC (I think)): my leash, which you bore so well.
+    * To Cullen Mahaney (Charlotte, NC (I think)): my copy of the comic *Pies*, in which nothing is said.
     * To Jamie Culpon (San Jose, CA): my hard-bound, gold-trimmed copy of *Dune*, in the hopes that it keeps giving you strange and wonderful thoughts about the bene geserit.
     * To Paul Rapoport (Chicago, IL): my copy of *S*. Perhaps the story will be even more complete if you have two of them.
     * To Kevin Frane (San Jose, CA): my two pieces of brush calligraphy wall art. One is a blessing for your home, and the other a poem.
-    * To Zech Castner (Loveland, CO): all of my brewing supplies, so long as you *use them*.
-    * To Alex Osaki (Berlin, Germany): my BitBucket account, which hosts raw dumps of all Furry Survey data, for you to do with what you please.
-4. The following additional suggestions are made:
-    * Selling the tea as a lot would probably be easiest. There are many collectors.
+    * To Alex Osaki (Berlin, Germany): my BitBucket account, which hosts raw dumps of all Furry Survey data, for you to do with what you please, and my everlasting gratitude for your trust.
+    * To members of The Blazewing Eyrie and Transliminal Beta (Seattle, WA): my wand, knife, and Fellowship materials, to deconsecrate and destroy, bury, or keep. In payment for this and the joy you brought me, you're also welcome to my stock of Christmas Mead.
 
 ### Section 3: Digital Assets
 
-1. Digital assets are to be transferred off of my laptops and phones onto an external drive, and each laptop is to be wiped and sold. I lived and worked on the damn things, get rid of them now that I'm gone.
+1. Digital assets are to be transferred off of my laptops and phones onto an external drive, and each laptop is to be wiped and donated or sold. I lived and worked on the damn things, get rid of them now that I'm gone.
 2. The Polycule can decide what to keep and not from those external copies.
 
 ### Section 4: Online Presence
@@ -69,9 +68,9 @@ Article 3: Assets
 2. Many online services have rules and regulations surrounding death of an account holder. These are to be honored above my wishes.
 3. Dropbox will delete an account after 90 days of inactivity. This is to be allowed with the following exceptions (note that per the transfer in *article 3, section 3*, this will happen anyway):
     * The `commissions` folder in there contains art; feel free to snag that.
-    * The `Thurston` folder contains documents that Thurston Howl Publications may need. Send this folder to them the address in the notification document specified in *article 5, section 1*.
+    * The `Thurston` folder contains documents that Thurston Howl Publications may need. Send this folder to them the address in the notification document specified in *article 6, section 1*.
     * The `HYBRID` folder contains all documents pertaining to the operation of Hybrid Ink, LLC minus the source for Hybrid Ink projects such as `hybrid.ink` and `pubtracker`, and is to be managed per *article 3, section 7*.
-4. Twitter account to be left as a memorial and warning against spending too much time online shitposting.
+4. Twitter account to be left as a memorial and warning to others against spending too much time online shitposting.
 5. Mastodon account to be left as is.
 6. Telegram account self-destructs after six months.
 7. Slack does not have a death policy, but do try to get in touch with the admins of the two Slacks I'm on (Chipotle on the Writers' Guild slack, and Rattz or zander on the postfurry slack) and let them know to deactivate my account.
@@ -86,8 +85,8 @@ Article 3: Assets
 ### Section 6: Liquid Assets
 
 1. Upon execution of this will and the closing of the estate, all remaining liquid assets are to be either:
-    * donated to individuals through the crowdfunding sites YouCaring.com and GoFundMe.com requesting financial help for medical gender transition (hormones, therapy, surgery, etc). *Or*
-    * held in the trust of a foundation aiming to help with medical gender transition (hormones, therapy, surgery, etc).
+    * held in the trust of a foundation aiming to help with medical gender transition (hormones, therapy, surgery, etc). *Or*
+    * donated to individuals through the crowdfunding sites YouCaring.com and GoFundMe.com requesting financial help for medical gender transition (hormones, therapy, surgery, etc).
 
 ### Section 7: Hybrid Ink Assets
 
@@ -98,7 +97,9 @@ Article 3: Assets
         * all products must be unlisted from the Gumroad, Amazon, and any other stores;
         * any royalty payments must be made for up to one year; *and*
         * contracts and termination agreements kept for at least five years.
-    2. Ownership of the business is to be transferred wholesale to another party, either through sale, gift, or inheritance. In this case, contracts are to remain in force for their duration with unaltered terms attested to by a signed agreement with the new owner and the other party, with the option for the other party to terminate their agreement.
+    2. Ownership of the business is to be transferred wholesale to another party through sale, gift, or inheritance. In this instance:
+        * contracts are to remain in force for their duration with unaltered terms attested to by a signed agreement with the new owner and the other party, with the option for the other party to terminate their agreement; *and*
+        * all profits from such a sale are to be donated or held in accordance with *article 3, section 6*.
 
 Article 4: Intellectual Property
 --------------------------------
@@ -111,11 +112,11 @@ Article 4: Intellectual Property
 ### Section 2: Publishing of Works
 
 1. Works may be published and sold in such a way that does not infringe upon the license in *article 4, section 1*.
-2. The royalties from any such publications will be donated or held in accordance with *article 3, section 6*.
+2. The royalties from any such publications are to be donated or held in accordance with *article 3, section 6*.
 
 ### Section 3: Existing Publications:
 
-1. Royalties due from existing publications will be donated or held in accordance with *article 3, section 6*.
+1. Royalties due from existing publications are to be donated or held in accordance with *article 3, section 6*.
 
 ### Section 4: Editorial Work
 
@@ -125,7 +126,16 @@ Article 4: Intellectual Property
     2. All new publications will use the license of the site.
     3. The license of the site will use or remain [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Article 5: Personal Requests
+Article 5: Remains
+------------------
+
+1. I am an organ donor. Any and all possible organs may be donated.
+2. An autopsy may be performed.
+3. After any and all such donations and/or autopsies have been made, my remains are to be cremated.
+4. What is to be done with my ashes is up to The Polycule and my parents.
+5. No physical monument of any type is to be erected or placed using my estate or the resulting funds. If my acts in life and the works I've made do not stand on their own, then I don't deserve one; if they do, I don't need one.
+
+Article 6: Personal Requests
 ----------------------------
 
 ### Section 1: Notifications
@@ -139,17 +149,13 @@ Article 5: Personal Requests
 1. Please do not be shy in mentioning furry. This subculture means a hell of a lot to me, I don't want that downplayed.
 2. Please do not be shy about poly. I love my polycule, and others besides. Reducing my relationships to the one that's legally binding would be an insult.
 
-Article 6: Remains
-------------------
+### Section 3: Final Notes
 
-1. I am an organ donor. Any and all possible organs may be donated.
-2. An autopsy may be performed if there are questions about the cause(s) of my death.
-3. After any and all such donations and/or autopsies have been made, my remains are to be cremated.
-4. What is to be done with my ashes is up to The Polycule and my parents.
-5. No physical monument of any type is to be erected or placed using my estate or the resulting funds. If my acts in life and the works I've made do not stand on their own, then I don't deserve one; if they do, I don't need one.
+* The Polycule as mentioned in this document is not the full thing. To other members, I apologize for not listing you; these three just have the most tangible connection to me and my goods.
+* Any attempt to memorialize me under my deadname will result in haunting. It won't be pleasant: I know how to be loud if need be. Don't do it.
 
 ----------
 
 Digitally signed by Madison Jesse Scott-Clary.
 
-Date of signature: April 9, 2018
+Date of signature: April 19, 2018
