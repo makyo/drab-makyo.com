@@ -304,7 +304,7 @@ Works published in resources edited by Madison
 
 Discrete editorial work
 :  
-    * [*Arcana*](writing.drab-makyo.com/anthologies/arcana/) --- an anthology of short furry fiction focused on the archetypes represented by the major arcana of the Tarot deck
+    * [*Arcana*](writing.drab-makyo.com/anthologies/arcana/) --- an anthology of short furry fiction focused on the archetypes represented by the major arcana of the Tarot deck. **Winner of the 2018 Cóyotl Award**
 
 Ongoing editorial work
 :  
