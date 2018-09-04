@@ -141,9 +141,20 @@ Article 6: Personal Requests
 
 ### Section 1: Notifications
 
-1. Names and addresses of individuals to contact are provided in a separate signed document in the same location as this will.
-2. Some notifications may be completed over email.
-3. MUCK accounts are more difficult, but I have a few friends on there that deserve to know what happened, but am not in contact with elsewhere. Preferably, find a friend (Indi, Kauko, Krinn, etc) who can connect and notify those individuals and provide a link to a publicly available obituary or news article.
+1. I request that certain individuals be contacted on my death due to them a) being close friends, and b) knowing little enough about my situation that they might not be able to find me otherwise.
+    * Tapestries MUCK:
+        * Lutea
+        * Vasha
+        * Maelkoth
+        * Colton-Reye
+    * Email:
+        * Peter Glaskowski: png@mac.com
+        * Carrie Haynes Sharp (former therapist):  carrie@carriehaynessharp.com
+        * Jonathan Thurston: jonathan.thurstonhowlpub@gmail.com
+    * Exocosmic:
+        * Jessica England (current therapist): 425 640 7009
+        * Summer Richardson (current primary care provider): (206) 281-7163
+        * Daniel Dugi (GRS surgeon): (503) 346-1500
 
 ### Section 2: Services, Obituaries, or Articles
 
@@ -152,11 +163,11 @@ Article 6: Personal Requests
 
 ### Section 3: Final Notes
 
-* The Polycule as mentioned in this document is not the full thing. To other members, I apologize for not listing you; these three just have the most tangible connection to me and my goods.
-* Any attempt to memorialize me under my deadname will result in haunting. It won't be pleasant: I know how to be loud if need be. Don't do it.
+1. The Polycule as mentioned in this document is not the full thing. To other members, I apologize for not listing you; these three just have the most tangible connection to me and my goods.
+2. Any attempt to memorialize me under my deadname will result in haunting. It won't be pleasant: I know how to be loud if need be. Don't do it.
 
 ----------
 
 Digitally signed by Madison Jesse Scott-Clary.
 
-Date of signature: August 18, 2018
+Date of signature: September 3, 2018
