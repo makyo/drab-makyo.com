@@ -43,7 +43,7 @@ Article 3: Assets
     4. Yes, James, this means you too. You have two estates already in the house.
 2. *All* remaining physical assets are to be sold, donated, or disposed of responsibly.
     1. All funds from sold assets are to be treated as liquid assets under *article 3, section 6*.
-    2. Beneficiaries may not receive any remaining assets through sale, donation, or disposal. Please, James, get rid of my stuff for real.
+    2. Beneficiaries may not receive any remaining physical assets through sale, donation, or disposal. Please, James, get rid of my stuff for real.
 3. To the following, above and beyond the "three each" clause:
     * To The Polycule: you have your proxy foxes and cats. You may have your proxy selves with my blessing.
     * To James Clary (Everett, WA): you may have my collar. It was always yours.
@@ -59,8 +59,9 @@ Article 3: Assets
 
 ### Section 3: Digital Assets
 
-1. Digital assets are to be transferred off of my laptops and phones onto an external drive, and each laptop is to be wiped and donated or sold. I lived and worked on the damn things, get rid of them now that I'm gone.
-2. The Polycule can decide what to keep and not from those external copies.
+1. Separate from the following step, my work laptop is to be returned to my place of employment, per the sticker on the bottom.
+2. Digital assets are to be transferred off of my laptops and phones onto an external drive, and each laptop is to be wiped and donated or sold. I lived and worked on the damn things, get rid of them now that I'm gone.
+3. The Polycule can decide what to keep and not from those external copies.
 
 ### Section 4: Online Presence
 
@@ -78,7 +79,7 @@ Article 3: Assets
 ### Section 5: Hosted Assets
 
 1. Assets hosted on GitHub will remain there indefinitely as a matter of course.
-2. There are two servers hosted by Linode. The `work` server may be terminated. `alopex` is to be left running for at least one year, as it hosts publicly available content such as `polycul.es`, `refs.express`, etc.
+2. There are three servers hosted by Linode. The `work` server may be terminated. `alopex` and `bengalensis` are to be left running for at least one year, as they host publicly available content such as `polycul.es`, `refs.express`, etc.
 3. Dreamhost hosts DNS for all domains, as well as some sites such as [adjective][species], and will thus need to be kept paid for at least one year.
 4. Domains are owned through NameCheap and are to be kept registered for at least one year.
 
@@ -158,4 +159,4 @@ Article 6: Personal Requests
 
 Digitally signed by Madison Jesse Scott-Clary.
 
-Date of signature: April 19, 2018
+Date of signature: August 18, 2018
