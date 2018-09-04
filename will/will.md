@@ -151,6 +151,7 @@ Article 6: Personal Requests
         * Peter Glaskowski: png@mac.com
         * Carrie Haynes Sharp (former therapist):  carrie@carriehaynessharp.com
         * Jonathan Thurston: jonathan.thurstonhowlpub@gmail.com
+        * JC Sackett: ...
     * Exocosmic:
         * Jessica England (current therapist): 425 640 7009
         * Summer Richardson (current primary care provider): (206) 281-7163
