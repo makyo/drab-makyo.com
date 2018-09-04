@@ -6,6 +6,7 @@ Per my last will and testament, I've requested that some individuals be contacte
     * Lutea
     * Vasha
     * Maelkoth
+    * Colton-Reye
 * Email:
     * Lochiel (friend): png@mac.com
     * Carrie Haynes Sharp (former therapist):  carrie@carriehaynessharp.com
