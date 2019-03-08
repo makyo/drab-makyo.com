@@ -1,8 +1,11 @@
 .PHONY: all
-all: signed-will.md.asc notifications.md.asc
+all: signed-will.md.asc will.pdf
 
 signed-will.md.asc: will.md
 	gpg -o signed-will.md.asc -sa will.md
 
-notifications.md.asc: notifications.md
-	gpg -o notifications.md.asc -sa notifications.md
+will.pdf: will.md
+	pandoc --wrap=none -o will-contents.tex will.md
+	perl -pi.bak -e 's/section\{/section*{/' will-contents.tex
+	xelatex will.tex
+	xelatex will.tex
