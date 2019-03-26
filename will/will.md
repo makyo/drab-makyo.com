@@ -183,7 +183,7 @@ Article 6: Personal Requests
 3. This will is public, and maybe shared as needed.
 
 [^polycule]: https://makyo.io/maddycule - view pass: Maddy
-[^lastpost]: English: If you are reading this, that means that I have passed away. Per the terms of https://drab-makyo.com/will this post is being made by the executor(s) of my estate. I love you all so much. Rejoice in each other. \[insert link to publicly available obituary or news article\]; Esperanto: Se vi legas ĉi tion, mi mortis. Pro la kondiĉoj de https://drab-makyo.com/will ĉi tiu mesago estas sendita de la plenumanto de mia biendomo. Mi amegas vin. Ĝoju unu la alian. \[insert link to publicly available obituary or news article\]
+[^lastpost]: English: *If you are reading this, that means that I have passed away. Per the terms of https://drab-makyo.com/will this post is being made by the executor(s) of my estate. I love you all so much. Rejoice in each other. \[insert link to publicly available obituary or news article\]*; Esperanto: *Se vi legas ĉi tion, mi mortis. Pro la kondiĉoj de https://drab-makyo.com/will ĉi tiu mesago estas sendita de la plenumanto de mia biendomo. Mi amegas vin. Ĝoju unu la alian. \[insert link to publicly available obituary or news article\]*
 
 ----------
 
