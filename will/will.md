@@ -61,7 +61,7 @@ Article 3: Assets
 ### Section 4: Online Presence
 
 1. Messages to be made on event of death:
-    * Personal accounts: no posts, messages, or content are to be made on my behalf.
+    * Personal accounts: a single post or message[^lastpost] is to be made, and no further messages to follow.
     * Business and organization accounts: one message stating what happened may be made with a link to a publicly available obituary or news article.
 2. Many online services have rules and regulations surrounding death of an account holder. These are to be honored above my wishes.
 3. Dropbox will delete an account after 90 days of inactivity. This is to be allowed.
@@ -148,7 +148,7 @@ Article 6: Personal Requests
 
 ### Section 1: Notifications
 
-1. I request that certain individuals be contacted on my death due to them a) being close friends, and b) knowing little enough about my situation that they might not be able to find me otherwise.
+1. I request that certain individuals be contacted on my death due to them a) being close friends or polycule members, and b) knowing little enough about my situation that they might not be able to find me otherwise.
     * Telegram:
         * Justin Coffman (@Whislock)
         * Rexx Shiranui (@RexxShiranui)
@@ -183,9 +183,10 @@ Article 6: Personal Requests
 3. This will is public, and maybe shared as needed.
 
 [^polycule]: https://makyo.io/maddycule - view pass: Maddy
+[^lastpost]: English: If you are reading this, that means that I have passed away. Per the terms of https://drab-makyo.com/will this post is being made by the executor(s) of my estate. I love you all so much. Rejoice in each other. \[insert link to publicly available obituary or news article\]; Esperanto: Se vi legas ĉi tion, mi mortis. Pro la kondiĉoj de https://drab-makyo.com/will ĉi tiu mesago estas sendita de la plenumanto de mia biendomo. Mi amegas vin. Ĝoju unu la alian. \[insert link to publicly available obituary or news article\]
 
 ----------
 
 Digitally signed by Madison Jesse Scott-Clary.
 
-Date of signature: March 8, 2019
+Date of signature: March 26, 2019
