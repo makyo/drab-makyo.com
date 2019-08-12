@@ -1,101 +1,107 @@
 \subsection{Skills}
 
-% \begin{wrapfigure}{r}{0.4\linewidth}
-%   \textit{\color{titlegreydark} \large As a process maven, Madison is experienced and adamant about CI, test coverage and reporting, and code documentation. She has also worked with technical writing, blogging, and promotional writing for software products. She has experience working in a management, mediator, and technical lead capacity, and is keenly interested in a diverse workforce, healthy work-life balance, and constructive social interactions within the workplace. As a trans woman, she is very focused on gender representation in tech.}
-%   \vspace{-1in}
-% \end{wrapfigure}
-
 \textbf{Web development}
 
 \begin{itemize}
-  \item \textit{Back-end technologies:} Python (using Django and Flask), Go (using Martini and Gorilla)
-  \item \textit{Front-end technologies:} standards compliant HTML5, CSS (standard, Sass, and Less), and JavaScript (vanilla, CoffeeScript, and Elm)
-  \item Focus on data visualization with D3, nvd3, React, and Crossfilter
-  \item Responsive application design through frameworks (Vanilla, Bootstrap, etc) or bespoke styling.
+    \item \textit{Back-end technologies:} Python (using Django and Flask), Go (using Martini and Gorilla)
+    \item \textit{Front-end technologies:} standards compliant HTML5, CSS (standard, Sass, and Less), and JavaScript (vanilla, CoffeeScript, and Elm)
+    \item Focus on data visualization with D3, React, and Crossfilter
+    \item Responsive application design through frameworks (Vanilla, Bootstrap, etc) or bespoke styling.
 \end{itemize}
 
 \hspace{-1.5em}\textbf{Cloud and DevOps}
 
 \begin{itemize}
-  \item Experince with programatic deployment using juju with cloud providers: Amazon AWS, Google Compute Engine, and Microsoft Azure; local providers: LXD, MaaS, and manual providers based on discrete servers; and ancillary services: Digital Ocean, Linode and Rackspace
-  \item providing highly available, load balanced, and monitored applications and application stacks
-  \item deployment strategies such as Juju, but also Chef, Puppet, and Ansible
+    \item Experince with programatic deployment using Ansible and Juju with cloud providers: Amazon AWS, Google Compute Engine, and Microsoft Azure; local providers: LXD, MaaS, and manual providers based on discrete servers; and ancillary services: Digital Ocean, Linode and Rackspace
+    \item providing highly available, load balanced, and monitored applications and application stacks
 \end{itemize}
 
 \hspace{-1.5em}\textbf{Systems and Languages}
 
 \begin{itemize}
-  \item \textit{Fluent in:} Python, Javascript, Make, Django, Flask, D3
-  \item \textit{Comfortable in:} Go, Groovy, Java, Ruby, Coffeescript, Bash, Martini, Grails, nvd3, YUI, React
-  \item \textit{New to:} Elm, Rails
-  \item Fluent in Linux operation on both desktop and server, as well as macOS and Windows
+    \item \textit{Fluent in:} Python, Go, Javascript, Make, Django, Flask, D3
+    \item \textit{Comfortable in:} Groovy, Java, Ruby, Coffeescript, Bash, Martini, Grails, React
+    \item \textit{New to:} Elm, Rails
+    \item Fluent in Linux operation on both desktop and server, as well as macOS and Windows
 \end{itemize}
 
 \subsection{Portfolio}
 
 \noindent github.com/makyo
 
-\noindent launchpad.net/~makyo
+\noindent launchpad.net/\textasciitilde{}makyo
 
 \newpage
 
 \subsection{Work experience}
 
 \begin{description}
-\item[Canonical, Ltd.]
-Software engineer --- 2012--\emph{present}
+    \item[Internet Archive]
+    Senior Software Engineer --- 2018--\emph{present} --- \emph{remote}
 
-\begin{itemize}
-\tightlist
-\item
-  Shepherded the Juju GUI from inception to production, working to implement changes from the core API as it moved from Python to Go
-\item
-  Worked to implement tooling around bundles of charms on various levels:
+    \begin{itemize}
+        \tightlist
+        \item
+        Worked to moving Archive-It from the older Java-based Wayback Machine to the new Python-based Wayback Machine
+        \item
+        Built, tested, and fuzzed Django-based rules engine for determining web caputre playback behavior
+        \item
+        Moved capture index from two-layer flat-file storage system to RocksDB-backed OutbackCDX
+    \end{itemize}
+    \item[Canonical, Ltd.]
+    Software engineer --- 2012--2018 --- \emph{remote}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Python-based Juju Quickstart, which created a model and deployed charms to it in Juju 1
-  \item
-    Python-based juju-bundlelib library, which broke a bundle down into the composite steps needed to deploy it (bundle changes), information that can be consumed by the Juju GUI
-  \item
-    Go-based jujusvg library, which generated an SVG image of a bundle as it would appear on the Juju GUI's canvas
-  \item
-    Go-based bundleservice and corresponding charm, which provided an API endpoint for generating both the bundle changes and bundle SVG
-  \end{itemize}
-  \item
-    Implemented client libraries in both JavaScript and Python for interacting with varied microservices.
-  \item
-    Helped with continued support of projects and their corresponding charms, such as the Extended Support Mechanism allowing for support for older versions of Ubuntu, and the Livepatch service allowing for serving kernel patches to be applied without reboot.
-\end{itemize}
-\item[bConnected Software/Optum Health/United Health Group]
-Software engineer --- 2011--2012
+    \begin{itemize}
+        \tightlist
+        \item
+        Shepherded the Juju GUI from inception to production, working to implement changes from the core API as it moved from Python to Go
+        \item
+        Worked to implement tooling around bundles of charms on various levels:
 
-\begin{itemize}
-\tightlist
-\item
-  Worked to implement a supplemental insurance sales portal from initial meetings to release
-\item
-  Developed web applications in Grails and JavaScript, backed by an API provided by an in-house tool
-\item
-  Designed and implemented an XML-based rules engine for calculating both plan rates and eligibility within the web applications, extending the Java-based in-house tool
-\item
-  Built a basic editor for the rules engine and a related forms engine
-\end{itemize}
-\item[Colorado State University Libraries]
-Library Technical Services/Research \& Development --- 2007--2011
+        \begin{itemize}
+            \tightlist
+            \item
+            Python-based Juju Quickstart, which created a model and deployed charms to it in Juju 1
+            \item
+            Python-based juju-bundlelib library, which broke a bundle down into the composite steps needed to deploy it (bundle changes), information that can be consumed by the Juju GUI
+            \item
+            Go-based jujusvg library, which generated an SVG image of a bundle as it would appear on the Juju GUI's canvas
+            \item
+            Go-based bundleservice and corresponding charm, which provided an API endpoint for generating both the bundle changes and bundle SVG
+        \end{itemize}
+        \item
+        Implemented client libraries in both JavaScript and Python for interacting with varied microservices.
+        \item
+        Helped with continued support of projects and their corresponding charms, such as the Extended Support Mechanism allowing for support for older versions of Ubuntu, and the Livepatch service allowing for serving kernel patches to be applied without reboot.
+    \end{itemize}
+    \item[bConnected Software/Optum Health/United Health Group]
+    Software engineer --- 2011--2012 --- \emph{Louisville, CO}
 
-\begin{itemize}
-\tightlist
-\item
-  Provided hardware and software technical support to library staff, comprising 400-500 desktop machines
-\item
-  Worked with specialized equipment such as flat book scanners, archival scanners, and plate-glass negative scanners
-\item
-  Managed the fleet of \textasciitilde{}300 desktops and \textasciitilde{}200 laptops available for public use
-\item
-  Developed in-house software for managing the Atmospheric Sciences Reading Room, a branch library, allowing basic lending of materials
-\item
-  Investigated custom software for mapping resources in the library as well as locations around the campus, providing shortest-path routing from current location
-\end{itemize}
+    \begin{itemize}
+        \tightlist
+        \item
+        Worked to implement a supplemental insurance sales portal from initial meetings to release
+        \item
+        Developed web applications in Grails and JavaScript, backed by an API provided by an in-house tool
+        \item
+        Designed and implemented an XML-based rules engine for calculating both plan rates and eligibility within the web applications, extending the Java-based in-house tool
+        \item
+        Built a basic editor for the rules engine and a related forms engine
+    \end{itemize}
+    \item[Colorado State University Libraries]
+    Library Technical Services/Research \& Development --- 2007--2011 --- \emph{Ft. Collins, CO}
+
+    \begin{itemize}
+        \tightlist
+        \item
+        Provided hardware and software technical support to library staff, comprising 400-500 desktop machines
+        \item
+        Worked with specialized equipment such as flat book scanners, archival scanners, and plate-glass negative scanners
+        \item
+        Managed the fleet of \textasciitilde{}300 desktops and \textasciitilde{}200 laptops available for public use
+        \item
+        Developed in-house software for managing the Atmospheric Sciences Reading Room, a branch library, allowing basic lending of materials
+        \item
+        Investigated custom software for mapping resources in the library as well as locations around the campus, providing shortest-path routing from current location
+    \end{itemize}
 \end{description}
