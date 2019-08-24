@@ -43,7 +43,7 @@ Article 3: Assets
     * To Robin Reed (Redwood City, CA): all my music on physical media. All CDs, vinyl, and the one cassette tape I own, plus any sheet music you  may want. You became the musical connection in my life.
     * To Conor McKeown (London, UK): every single corgi-themed thing I owned. You're my number one best corgi, after all.
     * To Colton-Reye (pseudonym; somewhere in KY; point of contact: Polycule Chat): all my Magic: The Gathering cards, as we got back into it together.
-    * To Justin Coffman (Apex, NC (I think)); point of contact: Telegram [@Whislock](https://t.me/Whislock)): my collar.
+    * To Justin Coffman (Apex, NC); point of contact: Telegram [@Whislock](https://t.me/Whislock)): my collar.
     * To Cullen Mahaney (Charlotte, NC (I think)); point of contact: Twitter [@werewight](https://twitter.com/werewight)): my copy of the comic *Pies*, in which nothing is said.
     * To @KsenoFox@twitter.com (somewhere in TX; point of contact: Alex Osaki): my hard-bound, gold-trimmed copy of *Dune*, in the hopes that it keeps giving you strange and wonderful thoughts about the bene geserit.
     * To Paul Rapoport (Chicago, IL; point of contact: Telegram [@coronacoreanici](https://t.me/coronacoreanici)): my copy of *S*. Perhaps the story will be even more complete if you have two of them.
