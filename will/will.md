@@ -14,7 +14,7 @@ Article 1: Representatives
 Article 2: Responsibilities and Obligations
 -------------------------------------------
 
-1. **Dogs:** James Clary shall assume full responsibility for our dogs. Should he be unable or unwilling to claim such, responsibility will fall to Donna Karr.
+1. **Pets:** James Clary shall assume full responsibility for our pets. Should he be unable or unwilling to claim such, responsibility will fall to Donna Karr.
 
 Article 3: Assets
 -----------------
@@ -22,7 +22,6 @@ Article 3: Assets
 ### Section 1: Property
 
 1. All property held jointly through Joint Tenancy or Tenants in Common with James Clary shall revert solely to him. This should be:
-    * 6216 Becker Ln., Loveland, CO 80538
     * 615 Andrea St., Fort Collins, CO 80524
     * Hyundai Ioniq (car)
 
@@ -39,15 +38,15 @@ Article 3: Assets
     1. All funds from sold assets are to be treated as liquid assets under *article 3, section 6*.
     2. Beneficiaries may not receive any remaining physical assets through sale, donation, or disposal. Please, James, get rid of my stuff for real.
 3. To the following, above and beyond the "three each" clause:
-    * To The Polycule: you have your proxy foxes and cats. You may have your proxy selves with my blessing.
-    * To James Clary (Everett, WA): you may have my collar. It was always yours.
+    * To The Polycule: if you have given me a proxy, you may have it back with my blessing.
+    * To James Clary (Everett, WA): all my toys and gear, so that you may keep having fun.
     * To Robin Reed (Redwood City, CA): all my music on physical media. All CDs, vinyl, and the one cassette tape I own, plus any sheet music you  may want. You became the musical connection in my life.
-    * To Conor McKeown (Birmingham, UK): every single corgi-themed thing I owned. You're my number one best corgi, after all.
+    * To Conor McKeown (London, UK): every single corgi-themed thing I owned. You're my number one best corgi, after all.
     * To Colton-Reye (pseudonym; somewhere in KY; point of contact: Polycule Chat): all my Magic: The Gathering cards, as we got back into it together.
-    * To Justin Coffman (Charlotte, NC (I think); point of contact: Telegram [@Whislock](https://t.me/Whislock)): my leash, which you bore so well.
-    * To Cullen Mahaney (Charlotte, NC (I think); point of contact: Twitter [@werewight](https://twitter.com/werewight)): my copy of the comic *Pies*, in which nothing is said.
+    * To Justin Coffman (Apex, NC (I think)); point of contact: Telegram [@Whislock](https://t.me/Whislock)): my collar.
+    * To Cullen Mahaney (Charlotte, NC (I think)); point of contact: Twitter [@werewight](https://twitter.com/werewight)): my copy of the comic *Pies*, in which nothing is said.
     * To @KsenoFox@twitter.com (somewhere in TX; point of contact: Alex Osaki): my hard-bound, gold-trimmed copy of *Dune*, in the hopes that it keeps giving you strange and wonderful thoughts about the bene geserit.
-    * To Paul Rapoport (Chicago, IL; point of contact: AAAUGH Telegram chat): my copy of *S*. Perhaps the story will be even more complete if you have two of them.
+    * To Paul Rapoport (Chicago, IL; point of contact: Telegram [@coronacoreanici](https://t.me/coronacoreanici)): my copy of *S*. Perhaps the story will be even more complete if you have two of them.
     * To Kevin Frane (San Jose, CA; point of contact: Telegram [@rikoshi](https://t.me/rikoshi)): my two pieces of brush calligraphy wall art. One is a blessing for your home, and the other a poem.
     * To Alex Osaki (Berlin, Germany; point of contact: Telegram [@DETXL](https://t.me/DETXL)): my BitBucket account, which hosts raw dumps of all Furry Survey data, for you to do with what you please, and my everlasting gratitude for your trust.
     * To members of The Fellowship of the Phoenix (Seattle, WA): my wand, knife, and Fellowship materials, to deconsecrate and destroy, bury, or keep. In payment for this and the joy you brought me, you're also welcome to my stock of Christmas Mead.
@@ -74,7 +73,6 @@ Article 3: Assets
     * The `HYBRID` repository contains all documents pertaining to the operation of Hybrid Ink, LLC minus the source for Hybrid Ink projects such as `hybrid.ink` and `pubtracker`, and is to be managed per *article 3, section 7*.
 4. Twitter and Mastodon accounts to be left as a memorial and warning to others against spending too much time online shitposting.
 5. Telegram account self-destructs after six months.
-6. Slack does not have a death policy, but do try to get in touch with the admins of the non-work Slacks I'm on (Chipotle on the Writers' Guild slack, Indi on the FotP slack, and Rattz or zander on the postfurry slack) and let them know to deactivate my account.
 
 ### Section 5: Hosted Assets
 
@@ -86,7 +84,7 @@ Article 3: Assets
     * `chama` (DigitalOcean) - email server (arcane.cafe). Leave running for three months; minor modifications to each site may be made to announce pending closure.
     * `lagopus` (Linode) - personal server: files, Matrix server, a few simple pages. Retrieve files per *article 3, section 4*, then terminate.
 3. Dreamhost hosts DNS for several domains, as well as some sites such as \[adjective\]\[species\], and will thus need to be kept paid for at least one year.
-4. DigitalOcean hosts DNS for some domains, as well as some server assets, and will thust need to be kept paid for at least one year.
+4. DigitalOcean hosts DNS for some domains, as well as some server assets, and will thus need to be kept paid for at least one year.
 5. Domains are owned through NameCheap and are to be kept registered for at least one year.
 
 ### Section 6: Liquid Assets
