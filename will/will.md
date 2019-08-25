@@ -44,7 +44,7 @@ Article 3: Assets
     * To Conor McKeown (London, UK): every single corgi-themed thing I owned. You're my number one best corgi, after all.
     * To Colton-Reye (pseudonym; somewhere in KY; point of contact: Polycule Chat): all my Magic: The Gathering cards, as we got back into it together.
     * To Justin Coffman (Apex, NC); point of contact: Telegram [@Whislock](https://t.me/Whislock)): my collar.
-    * To Cullen Mahaney (Charlotte, NC (I think)); point of contact: Twitter [@werewight](https://twitter.com/werewight)): my copy of the comic *Pies*, in which nothing is said.
+    * To Cullen Mahaney (Greensboro, NC); point of contact: Twitter [@werewight](https://twitter.com/werewight)): my copy of the comic *Pies*, in which nothing is said.
     * To @KsenoFox@twitter.com (somewhere in TX; point of contact: Alex Osaki): my hard-bound, gold-trimmed copy of *Dune*, in the hopes that it keeps giving you strange and wonderful thoughts about the bene geserit.
     * To Paul Rapoport (Chicago, IL; point of contact: Telegram [@coronacoreanici](https://t.me/coronacoreanici)): my copy of *S*. Perhaps the story will be even more complete if you have two of them.
     * To Kevin Frane (San Jose, CA; point of contact: Telegram [@rikoshi](https://t.me/rikoshi)): my two pieces of brush calligraphy wall art. One is a blessing for your home, and the other a poem.
