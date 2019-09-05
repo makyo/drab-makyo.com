@@ -14,6 +14,13 @@ Hybrid Ink, LLC,
     * Worked with authors through the editorial and promotion process.
     * Created and maintained several advertising and sales channels
 
+Internet Archive
+:   Senior software engineer --- 2018-2019
+
+    * Worked to moving Archive-It from the older Java-based Wayback Machine to the new Python-based Wayback Machine
+    * Built, tested, and fuzzed Django-based rules engine for determining web caputre playback behavior
+    * Moved capture index from two-layer flat-file storage system to RocksDB-backed OutbackCDX
+
 Thurston Howl Publishing
 :   Editor --- 2017-2018
 
@@ -22,7 +29,7 @@ Thurston Howl Publishing
     * Copyedited and formatted books, including overall layout in (Xe)LaTeX and Word
 
 Canonical, Ltd.
-:   Software engineer --- 2012-*present*
+:   Software engineer --- 2012-2018
 
     * Shepherded the Juju GUI from inception to production, working to implement changes from the core API as it moved from Python to Go
     * Worked to implement annotation information within Juju core to allow persistent GUI state to be stored within Juju models
@@ -113,7 +120,7 @@ Furry Migration 2017
     * Participated in panels on writing to give input from an organizational, technical, and social angle
 
 Furry Writers' Guild
-:   President --- 2017 --- *ongoing*
+:   President --- 2017
 
     * Organized and encouraged discussion surrounding the Guild's goals and direction
     * Helped run day-to-day aspects of the Guild along with vice president Watts Martin
@@ -169,13 +176,20 @@ Teen Activity Providers' Network (TAPN)
 [\[adjective\]\[species\]](https://github.com/adjspecies)
 :   The programming side of the metafurry resource
 
+    * [explore621](https://github.com/adjspecies/explore621) --- an exploration of image metadata from the art site e621
     * [furrypoll](https://github.com/adjspecies/furrypoll) --- the annual furry survey
     * [furrypoll-munger](https://github.com/adjspecies/furrypoll-munger) --- "Bits and bobs for munging data from the furry poll into something useful."
     * [\[a\]\[s\] Visualizations](https://github.com/adjspecies/vis.adjectivespecies.com) --- Visualization of data from the Furry Poll and other data sources, available [here](http://vis.adjectivespecies.com)
+    * [\[a\]\[s\] Presentations](https://github.com/adjspecies/presentations) --- browser-based (using impress.js) and local presentations for convention panels.
 
 [Personal projects](https://github.com/makyo)
 :   additional projects not falling under a larger heading (reverse chronological order)
 
+    * [Stimmtausch](https://stimmtausch.com) --- A terminal-based MUCK client writen in Go.
+        * [Snuffler](https://snuffler.projects.makyo.io) --- A configuration file manager for larger projects supporting cascading configurations.
+        * [ansigo](https://ansigo.projects.makyo.io) --- An ANSI escape code library.
+        * [tview-editor](https://github.com/makyo/tview-editor) --- A unimodal, ulti-line editor primitive for [`tview`](https://github.com/rivo/tview) including basic selection.
+    * [trck.ai](https://trck.ai) --- A smart short-url site for package tracking numbers.
     * [bbbingo](https://bbbingo.me) --- A website for generating and playing custom bingo cards.
     * Qoheleth --- An alternate reality game
         * [cards](https://github.com/but-death-must/cards) --- an implementation of the Solitaire stream cipher, intended to be ugly and unreadable (with a separate commented branch)
@@ -195,6 +209,13 @@ Teen Activity Providers' Network (TAPN)
 
 Creativity related projects
 :  
+    2019:
+
+    * [ally](https://ally.id) --- An ergodic semiautobiographical project for myself --- Hugo site designed and hosted on Netlify
+    * [Peak Millennial](https://makyo.github.io/peak-millennial) --- A single-page RPG about generational differences --- README file, SVG, and PDF designed and hosted on Github
+    * [Writing (redux)](https://writing.drab-makyo.com) --- Writing site redone in Hugo, hosted on Netlify
+    * [Writing portfolio](https://makyo.ink) --- A portfolio of completed writing projects --- Hugo site designed and hosted on Netlify
+
     2018:
 
     * [Hybrid](http://hybrid.ink) --- A publishing company focused on thoughtful writing --- Jekyll site designed and hosted on Netlify
@@ -230,6 +251,12 @@ Creativity related projects
 
 Data, development, and design related projects
 :  
+    2019:
+
+    * [explore621](https://explore621.net) --- An exploration of image metadata from the art site e621 --- Django site designed and self-hosted
+    * [wixxx](https://wixxx.me) --- Basic stats about sexual interests on furry MUCKs --- Flask site and API designed and self-hosted; TinyFugue client script designed
+    * [\[a\]\[s\] Presentations](https://presentations.adjectivespecies.com) --- Browser-based data presentations --- Jekyll site designed and hosted on Netlify
+
     2016:
 
     * [OpenFurry](http://openfurry.org) --- a site organizing all of the projects and members of OpenFurry --- Jekyll site designed and hosted on GitHub
@@ -250,15 +277,20 @@ Data, development, and design related projects
 
 Stand-alone, personal, and unrelated projects
 :  
+    2019:
+
+    * [Madison Scott-Clary is...](https://makyo.is) --- Where is Madison and what is she doing there, anyway? --- Single-page HTML/SVG site designed and hosted on Netlify
+    * [trck.ai](https://trck.ai) --- A smart short-url site for package tracking numbers --- Flask site designed and self-hosted
+
     2017:
 
     * [bbbingo](https://bbbingo.me) --- a website for generating and playing custom bingo cards --- Flask application designed and self-hosted
+    * [ShortURL](https://jnsq.us) --- a simple ShortURL site --- Flask application designed and self-hosted
     * [Patrons](http://patrons.drab-makyo.com) --- a site for use in conjunction with Patreon, allowing encrypted posts to be viewed by certain levels of patrons --- Jekyll site designed and hosted on GitHub
 
     2016:
 
     * [polycul.es](https://polycul.es) --- a site for visualizing polyamorous relationships through force directed graphs --- Flask application designed and self-hosted
-    * [agalmic.holdings](http://agalmic.holdings) --- a site listing intellectual property holdings --- Jekyll site designed and hosted on GitHub
 
     2015:
 
@@ -281,9 +313,14 @@ Stand-alone, personal, and unrelated projects
 
 ### Published work
 
+Published works available for sale
+:  
+    * [*Restless Town*](https://makyo.ink/publications/restless-town) --- 2019
+    * [*Rum and Coke --- Three Short Stories from a Furry Convention*](https://makyo.ink/publications/rum-and-coke) --- 2019
+
 Works published in resources not edited by Madison
 :  
-    * Short story: *Disappearance* --- (estimated) 2018 --- *Hot Dish vol. 3*
+    * Short story: *Disappearance* --- (estimated) 2019 --- *Hot Dish vol. 3*
     * Short story: ["Centerpiece"](http://writing.drab-makyo.com/fiction/sawtooth/party/centerpiece/) --- (estimated) 2018 --- *Knotted: A BDSM Anthology Vol. 2*
     * Article: ["Gender: Furry"](http://writing.drab-makyo.com/non-fiction/gender-furry/) --- 2017 --- [*Furries Among US II*](https://www.amazon.com/dp/1945247118)
     * Article: ["Coming out in Tech: Communication is Key"](http://thenewstack.io/coming-out-in-tech/) --- 2016 --- The New Stack
@@ -325,6 +362,13 @@ Past editorial work
 * [Bookmarfs](http://bookmarfs.com) --- a book club for furries exploring and discussing written works inside and outside the fandom
 
 ## Music
+
+2019 --- [Piano Works vol. 1](https://drab-makyo.bandcamp.com/album/piano-works-vol-1)
+:  
+    * *Three Pieces* --- Three contemporary piano pieces
+    * *Miniatures 1-5* --- Short piano compositions
+    * *Chronological Inveitions* --- Three works using baroque, romantic, and modern composition techniques
+    * *Character Dances* --- a suite of piano pieces exploring a programatic theme
 
 2010 --- Senior composition recital in 2011, premiering
 :  
