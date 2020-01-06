@@ -8,28 +8,34 @@ title: "Curriculum Vit&aelig;"
 ### Paid work experience:
 
 Hybrid Ink, LLC,
-:   Editor-in-chief --- 2018-*present*
+:   Editor-in-chief --- 2018--*present*
 
     * Shepherded publications --- both fiction and non --- from the query process through final publication and sales.
     * Worked with authors through the editorial and promotion process.
     * Created and maintained several advertising and sales channels
 
+New Vector, Ltd.
+:   Software consultant --- 2019--*present*
+
+    * Worked with the Modular.im team to combine integrations for the SaaS offering of the Matrix server and client pair Synapse and Riot
+    * Helped to bring the deployment of the integration manager into the current Ansible/Kubernetes stack
+
 Internet Archive
-:   Senior software engineer --- 2018-2019
+:   Senior software engineer --- 2018--2019
 
     * Worked to moving Archive-It from the older Java-based Wayback Machine to the new Python-based Wayback Machine
     * Built, tested, and fuzzed Django-based rules engine for determining web caputre playback behavior
     * Moved capture index from two-layer flat-file storage system to RocksDB-backed OutbackCDX
 
 Thurston Howl Publishing
-:   Editor --- 2017-2018
+:   Editor --- 2017--2018
 
     * Responded to queries and reviewed manuscripts
     * Edited anthologies of shorter works
     * Copyedited and formatted books, including overall layout in (Xe)LaTeX and Word
 
 Canonical, Ltd.
-:   Software engineer --- 2012-2018
+:   Software engineer --- 2012--2018
 
     * Shepherded the Juju GUI from inception to production, working to implement changes from the core API as it moved from Python to Go
     * Worked to implement annotation information within Juju core to allow persistent GUI state to be stored within Juju models
@@ -42,7 +48,7 @@ Canonical, Ltd.
     * Helped with continued support of projects and their corresponding charms, such as the Extended Support Mechanism allowing for support for older versions of Ubuntu, and the Livepatch service allowing for serving kernel patches to be applied without reboot.
 
 bConnected Software/Optum Health/United Health Group
-:   Software engineer --- 2011-2012
+:   Software engineer --- 2011--2012
 
     * Worked to implement a supplemental insurance sales portal from initial meetings to release
     * Developed web applications in Grails and JavaScript, backed by an API provided by an in-house tool
@@ -51,7 +57,7 @@ bConnected Software/Optum Health/United Health Group
     * Built a basic editor for the rules engine and a related forms engine
 
 Colorado State University Libraries
-:   Library Technical Services and Research &amp; Development --- 2007-2011
+:   Library Technical Services and Research &amp; Development --- 2007--2011
 
     * Provided hardware and software technical support to library staff, comprising 400-500 desktop machines
     * Worked with specialized equipment such as flat book scanners, archival scanners, and plate-glass negative scanners
@@ -60,13 +66,13 @@ Colorado State University Libraries
     * Investigated custom software for mapping resources in the library as well as locations around the campus, providing shortest-path routing from current location
 
 Colorado State University Choral Department
-:   Choir librarian 2006-2007
+:   Choir librarian --- 2006--2007
 
     * Implemented and managed construction a database of choral scores available from the choir library, using help from volunteers and other students
     * Cleaned and organized the choral library
 
 Colorado State University Dining
-:   Head line cook and prep --- 2005-2006
+:   Head line cook and prep --- 2005--2006
 
     * Prepared and served meals for a cafeteria serving 500+ students per meal alongside a team of several employees
     * Managed line cooks and prep-workers throughout their shift
@@ -279,6 +285,7 @@ Stand-alone, personal, and unrelated projects
 :  
     2019:
 
+    * [ally](https://ally.id) --- An ergodic semiautobiographical project for Madison Scott-Clary --- Hugo site designed and hosted on Netlify
     * [Madison Scott-Clary is...](https://makyo.is) --- Where is Madison and what is she doing there, anyway? --- Single-page HTML/SVG site designed and hosted on Netlify
     * [trck.ai](https://trck.ai) --- A smart short-url site for package tracking numbers --- Flask site designed and self-hosted
 
@@ -294,7 +301,7 @@ Stand-alone, personal, and unrelated projects
 
     2015:
 
-    * [Photography](http://makyo.photography) --- 500px-powered personal photography site
+    * [Photography](http://makyo.photography) --- zenPhoto-powered personal photography site
 
     2014:
 
@@ -315,12 +322,14 @@ Stand-alone, personal, and unrelated projects
 
 Published works available for sale
 :  
+    * [*Eigengrau*](https://makyo.ink/publications/eigengrau) --- 2019
     * [*Restless Town*](https://makyo.ink/publications/restless-town) --- 2019
     * [*Rum and Coke --- Three Short Stories from a Furry Convention*](https://makyo.ink/publications/rum-and-coke) --- 2019
 
 Works published in resources not edited by Madison
 :  
-    * Short story: *Disappearance* --- (estimated) 2019 --- *Hot Dish vol. 3*
+    * Articles: *Tracking an anthology: the steps from start to finish* and *Layout and design: reducing barriers between story and reader* --- (estimated) 2020 --- *Paw to Print*
+    * Short story: *Disappearance* --- (estimated) 2020 --- *Hot Dish vol. 3*
     * Short story: ["Centerpiece"](http://writing.drab-makyo.com/fiction/sawtooth/party/centerpiece/) --- (estimated) 2018 --- *Knotted: A BDSM Anthology Vol. 2*
     * Article: ["Gender: Furry"](http://writing.drab-makyo.com/non-fiction/gender-furry/) --- 2017 --- [*Furries Among US II*](https://www.amazon.com/dp/1945247118)
     * Article: ["Coming out in Tech: Communication is Key"](http://thenewstack.io/coming-out-in-tech/) --- 2016 --- The New Stack
@@ -341,7 +350,10 @@ Works published in resources edited by Madison
 
 Discrete editorial work
 :  
-    * [*Arcana*](writing.drab-makyo.com/anthologies/arcana/) --- an anthology of short furry fiction focused on the archetypes represented by the major arcana of the Tarot deck. **Winner of the 2018 Cóyotl Award**
+    * [*Arcana*](https://makyo.ink/publications/arcana/) --- an anthology of short furry fiction published by Thurston Howl Publications focused on the archetypes represented by the major arcana of the Tarot deck. **Winner of the 2018 Cóyotl Award**
+    * [*Small Loves: A Queer Microfiction Anthology*](https://hybrid.ink/submit/anthologies/small-loves/) --- an anthology of micro- and nanofiction published by Hybrid Ink focused on LGBTQIA+ stories. (In progress)
+    * [*Genderful*](https://hybrid.ink/submit/anthologies/genderful) --- a furry fiction anthology in two parts which aims to explore how furry and gender interact. (In progress)
+    * [*Acethetic*](https://hybrid.ink/submit/anthologies/acethetic) --- an anthology focused on short stories that explore the lives of our asexual friends and family. The stories should focus on characters anywhere on the specturm of asexuality. (In progress)
 
 Ongoing editorial work
 :  
