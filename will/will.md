@@ -45,7 +45,6 @@ Article 3: Assets
     * To Judith (Conor McKeown) (London, UK): every single corgi-themed thing I owned. You're my number one best corgi, after all, even when you're not a corgi.
     * To Colton-Reye (pseudonym; somewhere in KY; point of contact: Polycule Chat): all my Magic: The Gathering cards, as we got back into it together.
     * To Justin Coffman (Apex, NC); point of contact: Telegram [@Whislock](https://t.me/Whislock)): my collar.
-    * To Cullen Mahaney (Greensboro, NC); point of contact: Twitter [@werewight](https://twitter.com/werewight)): my copy of the comic *Pies*, in which nothing is said.
     * To @KsenoFox@twitter.com (somewhere in TX; point of contact: Judith): my hard-bound, gold-trimmed copy of *Dune*, in the hopes that it keeps giving you strange and wonderful thoughts about the bene geserit.
     * To Paul Rapoport (Chicago, IL; point of contact: Telegram [@coronacoreanici](https://t.me/coronacoreanici)): my copy of *S*. Perhaps the story will be even more complete if you have two of them.
     * To Kevin Frane (San Jose, CA; point of contact: Telegram [@rikoshi](https://t.me/rikoshi)): my two pieces of brush calligraphy wall art. One is a blessing for your home, and the other a poem.
@@ -139,7 +138,7 @@ Article 5: Remains
 1. I am an organ donor. Any and all possible organs may be donated.
 2. An autopsy may be performed.
 3. If there is any knowledge to be gained from my remains through any studies, those are to be performed.
-4. After any and all such donations, autopsies, or studies have been made, my remains are to be composted if possible, cremated if not.
+4. After any and all such donations, autopsies, or studies have been made, my remains are to be, in order of preference: composted, [buried naturally](https://en.wikipedia.org/wiki/Natural_burial), or cremated.
 5. What is to be done with my dirt or ashes is up to The Polycule and my parents.
 6. No physical monument of any type is to be erected or placed using my estate or the resulting funds. If my acts in life and the works I've made do not stand on their own, then I don't deserve one; if they do, I don't need one.
 
