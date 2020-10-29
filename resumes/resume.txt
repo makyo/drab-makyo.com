@@ -1,0 +1,43 @@
+Madison Scott-Clary
+6811 Commercial Ave
+Everett, WA 98203
+
+Phone: 303-818-5943
+Email: makyo@drab-makyo.com
+
+QUALIFICATIONS
+
+Web development: Back-end technologies: Python (using Flask and Django), Go (using Martini and Gorilla); front-end technologies: standards compliant HTML5, CSS (standard, Sass, and Less), and JavaScript (vanilla, CoffeeScript, and Elm); focus on data visualization with D3, nvd3, React, and Crossfilter; responsive application design through frameworks (Vanilla, Bootstrap, etc) or bespoke styling.
+
+Cloud and DevOps: Experince with programatic deployment using Ansible and Juju with cloud providers: Amazon AWS, Google Compute Engine, and Microsoft Azure; local providers: LXD, MaaS, and manual providers based on discrete servers; and ancillary services: Digital Ocean, Linode and Rackspace; providing highly available, load balanced, and monitored applications and application stacks
+
+Systems and languages: Fluent in: Python, Go, Javascript, Make, Django, Flask, D3; Comfortable in: Groovy, Java, Ruby, Coffeescript, Bash, Martini, Grails, nvd3, YUI, React; New to: Elm, Rails; Fluent in Linux operation on both desktop and server, as well as macOS and Windows
+
+Line editing: Firm grasp on English as a written language, and American and British English as dialects; experience with style manuals (Chicago and AP); understanding of stylistic concerns and genre within fiction; experience with anthologies and collections of both fiction and non-fiction; experience sharing edits and managing changes in Microsoft Word, LibreOffice, LaTeX, plain text, and PDF annotation
+
+Layout: Well-versed in LaTeX and some experience with Adobe InDesign for layout; experienced with publishing online for both rich-media and static presentation in WordPress, Ghost, and Jekyll, for both fiction and non-fiction; firm grasp on publishing for print and e-reader formats as well as the web
+
+
+EXPERIENCE
+
+Hybrid Ink, LLC, Editor-in-chief, Jan 2018 - present: shepherded publications - both prose and poetry, anthologies/collections and unified works - from the query process through final publication and sales; worked with authors through the editorial and promotion process; created and maintained several advertising and sales channels.
+
+New Vector, Ltd., Senior software contractor, Oct 2019 - Feb 2020: Worked with the Modular.im team to combine integrations for the SaaS offering of the Matrix server and client pair Synapse (Python and Twisted) and Riot (React); helped to bring the deployment of the integration manager into the current Ansible/Kubernetes stack.
+
+Internet Archive, Senior software engineer - Sept 2018 - Sept 2019: Worked to moving Archive-It from the older Java-based Wayback Machine to the new Python-based Wayback Machine; built, tested, and fuzzed Django-based rules engine for determining web capture playback behavior; moved capture index from two-layer flat-file storage system to RocksDB-backed OutbackCDX.
+
+Thurston Howl Publications, Editor, Sept 2017 - Dec 2018: worked on fiction and non-fiction anthologies of shorter works; fielded queries for longer works, including judging the query and providing an initial read-through of the manuscript; contributed both fiction and non-fiction writing to anthologies; copyedited and formatted books, including overall layout in (Xe)LaTeX, LibreOffice, and Word.
+
+Furry Writers' Guild, President, May 2017 - November 2017: helped promote the guild and its activities to a wider audience, including as Guest-of-Honor at Furry Migration 2017; worked with guild members in an editorial, publishing, beta-read, and fellow writer capacity.
+
+Canonical, Ltd., Software engineer, Sept 2012 - Sept 2018: Shepherded the Juju GUI from inception to production, working to implement changes from the core API as it moved from Python to Go; worked to implement annotation information within Juju core to allow persistent GUI state to be stored within Juju models; worked to implement tooling around bundles of charms on various levels: Python-based Juju Quickstart which created a model and deployed charms to it in Juju 1, Python-based juju-bundlelib library which broke a bundle down into the composite steps needed to deploy it (bundle changes, information that can be consumed by the Juju GUI), a Go-based jujusvg library which generated an SVG image of a bundle as it would appear on the Juju GUI's canvas, a Go-based bundleservice and corresponding charm, which provided an API endpoint for generating both the bundle changes and bundle SVG; implemented client libraries in both JavaScript and Python for interacting with varied microservices; helped with continued support of projects and their corresponding charms, such as the Extended Support Mechanism allowing for support for older versions of Ubuntu, and the Livepatch service allowing for serving kernel patches to be applied without reboot; provided tech-writing expertise for the Juju GUI; wrote blog posts focusing on Juju as a product, the GUI itself, and writing Juju charms.
+
+bConnected Software/Optum Health/United Health Group, Software engineer, May 2011 - Sept 2012: worked to implement a supplemental insurance sales portal from initial meetings to release; developed web applications in Grails and JavaScript, backed by an API provided by an in-house tool; designed and implemented an XML-based rules engine for calculating both plan rates and eligibility within the web applications; extended the Java-based in-house tool to work with the rules engine; built a basic editor for the rules engine and a related forms engine.
+
+[adjective][species], Ltd., Editor-in-chief, 2011 - present: created, designed, and ran the websites adjectivespecies.com, lovesexfur.com, and furrypoll.com, fielded queries and submissions of primarily short non-fiction works to be published on the sites; contributed non-fiction writing to the sites; produced a set of informational guides to be handed out and used as the basis of presentations; spoke as a panelist at several conventions on the topic of data, safer sex, relationships, and gender; created and helped others create small surveys to collect data to be used as the basis for articles and presentations; took over administration of The Furry Poll (previously The Furry Survey) and ran a longitudinal survey of the furry subculture over several years.
+
+Colorado State University Libraries, Library Technical Services and Research & Development, March 2007 - May 2011: provided hardware and software technical support to library staff, comprising 400-500 desktop machines; worked with specialized equipment such as flat book scanners, archival scanners, and plate-glass negative scanners; managed the fleet of ~300 desktops and ~200 laptops available for public use; developed in-house software for managing the Atmospheric Sciences Reading Room, a branch library, allowing basic lending of materials; investigated custom software for mapping resources in the library as well as locations around the campus, providing shortest-path routing from current location.
+
+EDUCATION
+
+Bachelor of the arts in music, Colorado State University 2011

@@ -1,12 +1,12 @@
 all: combined tech editorial
 
 combined:
-	pdflatex combined.tex
+	xelatex combined.tex
 
 tech:
-	pdflatex tech.tex
+	xelatex tech.tex
 
 editorial:
-	pdflatex editorial.tex
+	xelatex editorial.tex
 
 .PHONY: all combined tech editorial
