@@ -2,5 +2,7 @@ url: http://drab-makyo.com
 name: Drab Makyo - Madison Scott-Clary
 description: Madison Scott-Clary is a programmer, writer, photographer, and composer living in the Pacific Northwest. This serves as a place to collect various works in something of a portfolio.
 
-markdown:    kramdown
+kramdown:
+  entity_output: true
+  html_to_native: false
 permalink:   pretty

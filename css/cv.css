@@ -4,7 +4,7 @@ body {
     margin: 0px;
     padding: 0px;
     color: #333;
-    font-family: "Playfair Display", "Times New Roman", serif;
+    font-family: "Gentium Basic", "Times New Roman", serif;
 }
 
 header,
@@ -115,7 +115,7 @@ header .contact input {
 /* General bits and bobs */
 
 .bullet:before {
-    content: "◦";
+    content: "";
 }
 
 .break:before {
