@@ -40,15 +40,15 @@ Article 3: Assets
     2. Beneficiaries may not receive any remaining physical assets through sale, donation, or disposal. Please, James, get rid of my stuff for real.
 3. To the following, above and beyond the "three each" clause:
     * To The Polycule: if you have given me a proxy, you may have it back with my blessing.
-    * To James Clary (Everett, WA): all my toys and gear, so that you may keep having fun.
+    * To James Clary (Everett, WA): all my art and pictures to remember me by.
     * To Robin Reed (Redwood City, CA): all my music on physical media. All CDs, vinyl, and the one cassette tape I own, plus any sheet music you  may want. You became the musical connection in my life.
     * To Judith (Conor McKeown) (London, UK): every single corgi-themed thing I owned. You're my number one best corgi, after all, even when you're not a corgi.
     * To Colton-Reye (pseudonym; somewhere in KY; point of contact: Polycule Chat): all my Magic: The Gathering cards, as we got back into it together.
-    * To Justin Coffman (Apex, NC); point of contact: Telegram [@Whislock](https://t.me/Whislock)): my collar.
-    * To @KsenoFox@twitter.com (somewhere in TX; point of contact: Judith): my hard-bound, gold-trimmed copy of *Dune*, in the hopes that it keeps giving you strange and wonderful thoughts about the bene geserit.
+    * To Justin Coffman (Apex, NC); point of contact: Telegram [@Whislock](https://t.me/Whislock)): my collar as a mark of ownership.
     * To Paul Rapoport (Chicago, IL; point of contact: Telegram [@coronacoreanici](https://t.me/coronacoreanici)): my copy of *S*. Perhaps the story will be even more complete if you have two of them.
     * To Kevin Frane (San Jose, CA; point of contact: Telegram [@rikoshi](https://t.me/rikoshi)): my two pieces of brush calligraphy wall art. One is a blessing for your home, and the other a poem.
-    * To Alex Osaki (Berlin, Germany; point of contact: Telegram [@DETXL](https://t.me/DETXL)): my BitBucket account, which hosts raw dumps of all Furry Survey data, for you to do with what you please, and my everlasting gratitude for your trust.
+    * To Ray Bartnikowski (Dearborn, MI; point of contact: Telegram [@vashadog](https://t.me/vashadog)): my fountain pens, inks, and drafting pencils, plus any paper he would like, as getting to write letters was a great joy; plus, a proxy fox.
+    * To Peter Hayes (Toledo, OH; point of contact: Discord StrikerVulsine#1954): my 'HECK' badge, because heckfox for heckyena; plus, a proxy fox.
     * To members of The Fellowship of the Phoenix (Seattle, WA): my wand, knife, and Fellowship materials, to deconsecrate and destroy, bury, or keep. In payment for this and the joy you brought me, you're also welcome to my stock of Christmas Mead.
 
 ### Section 3: Digital Assets
@@ -79,8 +79,7 @@ Article 3: Assets
 2. There are several servers I have and use.
     * `alopex` (Linode) - legacy server. Terminate.
     * `bengalensis` (Linode) - application server (polycul.es, trck.ai, furaff.net, makyo.io, jnsq.us, bbbingo.me). Leave running for at least one year; minor modifications to each site may be made to announce pending closure.
-    * `cana` (Linode) - application and data server (wixxx.me, explore621.net, \[adjective\]\[species\] data). Leave running for at least one year; minor modifications to each site may be made to announce pending closure; stop `cron` jobs.
-    * `chama` (DigitalOcean) - email server (arcane.cafe). Leave running for three months; minor modifications to each site may be made to announce pending closure.
+    * `cana` (Linode) - application and data server (wixxx.me, explore621.net, \[adjective\]\[species\] data). Leave running for at least three months; minor modifications to each site may be made to announce pending closure; stop `cron` jobs.
     * `lagopus` (Linode) - personal server: files, Matrix server, a few simple pages. Retrieve files per *article 3, section 4*, then terminate.
     * `zerda` (DigitalOcean) - Mastodon server (maddypa.ws). Leave running for a few months to let my account stay visible, then terminate.
 3. Dreamhost hosts DNS for several domains, as well as some sites such as \[adjective\]\[species\], and will thus need to be kept paid for at least one year.
@@ -92,20 +91,6 @@ Article 3: Assets
 1. Upon execution of this will and the closing of the estate, all remaining liquid assets are to be either:
     * held in the trust of a foundation aiming to help with medical gender transition (hormones, therapy, surgery, etc). *Or*
     * donated to individuals through the crowdfunding sites YouCaring.com and GoFundMe.com requesting financial help for medical gender transition (hormones, therapy, surgery, etc).
-
-### Section 7: Hybrid Ink Assets
-
-1. I have sole ownership of Hybrid Ink, LLC.
-2. All authors with accepted projects must be notified of my death with a link to a publicly available obituary or news article.
-3. There are two options:
-    1. All active contracts may be terminated by means of a signed termination agreement between my estate and the other party and the business to be shuttered. In this instance:
-        * all products must be unlisted from the Gumroad, Amazon, and any other stores;
-        * any royalty payments must be made for up to one year; *and*
-        * contracts and termination agreements kept for at least five years.
-    2. In-progress projects not yet under contract have the option to be picked up by another entity, be it individual or business, so long as the terms of submission are unaltered. If no such entity is willing to take them on and ownership of Hybrid Ink, LLC is not transferred as below, the projects may be canceled with adequate notification to current and potential participants notified of my death with a link to a publicly available obituary or news article.
-    3. Ownership of the business is to be transferred wholesale to another party through sale, gift, or inheritance. In this instance:
-        * contracts are to remain in force for their duration with unaltered terms attested to by a signed agreement with the new owner and the other party, with the option for the other party to terminate their agreement; *and*
-        * all profits from such a sale are to be donated or held in accordance with *article 3, section 6*.
 
 Article 4: Intellectual Property
 --------------------------------
@@ -149,18 +134,24 @@ Article 6: Personal Requests
 
 1. I request that certain individuals be contacted on my death or incapacitation due to them a) being close friends or folks I have business ties with, and b) knowing little enough about my situation that they might not be able to find me otherwise.
     * Telegram:
-        * Justin Coffman (@Whislock)
+        * Justin Coffman (@f0x1de)
         * Rexx Shiranui (@RexxShiranui)
         * Celanor (@celanor)
         * JC Sackett (@jcsackett)
+        * Vasha (@vashadog)
+    * Discord:
+        * Maelkoth (malkav11#0765)
+        * Dave (StrikerVulsine#1954)
+        * A message may be left in my Discord server only after such notifications have been provided.
     * Tapestries MUCK:
-        * Lutea
-        * Vasha
-        * Maelkoth
-        * Dave (who knows me as Makyo)
+        * Aeothen
+        * Zakmael
+        * Maximus
         * A message may be left on the board in the plaza only after such notifications have been provided.
     * FurryMUCK:
         * Lochiel
+        * JackRabbitson
+        * Nilop
         * Mevrea
         * A message may be left on the board in the WCotP or Owl Haven only after such notifications have been provided.
     * Email:
@@ -173,8 +164,9 @@ Article 6: Personal Requests
 
 ### Section 2: Services, Obituaries, or Articles
 
-1. Please do not be shy in mentioning furry. This subculture means a hell of a lot to me, I don't want that downplayed.
-2. Please mention my polyamorous relationship structure. I love my polycule, and others besides. Reducing my relationships to the one that's legally binding would be an insult.
+1. Please mention my transgender identity. That is important to me.
+2. Please do not be shy in mentioning furry. This subculture means a hell of a lot to me, I don't want that downplayed.
+3. Please mention my polyamorous relationship structure. I love my polycule, and others besides. Reducing my relationships to the one that's legally binding would be an insult.
 
 ### Section 3: Final Notes
 
@@ -183,8 +175,7 @@ Article 6: Personal Requests
 3. This will is public, and maybe shared as needed.
 
 [^polycule]: https://makyo.io/maddycule - view pass: Maddy
-[^lastpost]: English: *If you are reading this, that means that I have passed away. Per the terms of https://drab-makyo.com/will this post is being made by the executor(s) of my estate. I love you all so much. Rejoice in each other. \[insert link to publicly available obituary or news article\]*; Esperanto: *Se vi legas ĉi tion, mi mortis. Pro la kondiĉoj de https://drab-makyo.com/will ĉi tiu mesaĝo estas sendita de la plenumanto de mia biendomo. Mi amegas vin. Ĝoju unu la alian. \[insert link to publicly available obituary or news article\]*
-
+[^lastpost]: *If you are reading this, that means that I have passed away. Per the terms of https://drab-makyo.com/will this post is being made by the executor(s) of my estate. I love you all so much. Rejoice in each other. \[insert link to publicly available obituary or news article\]*
 ----------
 
 Digitally signed by Madison Jesse Scott-Clary.
