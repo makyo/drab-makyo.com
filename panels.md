@@ -19,6 +19,15 @@ Healthy Relationships in Furry
 Gender and Furry
 :   Both gender and furry touch on very important aspects of identity, and the fandom often provides a space in which to explore one's gender in a safe manner. Join Makyo from Love - Sex - Fur to talk about what gender is and how it interacts with the furry subculture.
 
+Book Layout and Design
+:   For the self- and small-publishers out there, you have a lot on your plate, from writing and submissions to distribution and marketing. Don't leave layout and design behind, though! The last thing you want to do is leave a barrier between you story and your reader. Learn about how to make reading pleasurable in a tool-agnostic lecture.
+
+Writing and Mental Health
+:   Mental health plays an important role in <del>just about</del> everything we do, and writing is no exception. Learn about how to keep yourself safe and healthy as well as how to improve your velocity, fluidity of ideas, and confidence in your writing.
+
+Using Story Beats
+:   The last thing that we want is to get bogged down in the process of structuring our stories. There are tools to help you out, however, whether it be a simple three-act structure to the hero's journey and the relationship caduceus! Come build a story and learn how to adapt existing tools to your own needs.
+
 ### Presentation topics
 
 Furry
@@ -28,7 +37,7 @@ Being trans in tech
 :   Tech and gender have a long and storied history, and this is complicated by transgender folks. I have written and thought about my experiences in tech as a trans woman extensively, with work appearing on a blog and on the tech site The New Stack. I love talking about the process of coming out, the things that work and don't work for trans folks in tech, and ways to improve for both employers and employees.
 
 Telling stories with technology
-:   In what ways can the technology that surrounds us help us tell stories? Is it utilizing the 'chat' feature on Tumblr to tell a story through instant messages? Is it running Augmented Reality Games using physical and digital tokens? Can the presentation of the story be a part of the story itself? I enjoy talking about technology and how it interacts with a story it's being used to tell, from ARGs to Tumblr to Twine.
+:   In what ways can the technology that surrounds us help us tell stories? Is it utilizing the 'chat' feature on Tumblr to tell a story through instant messages? Is running Augmented Reality Games using physical and digital tokens? Can the presentation of the story be a part of the story itself? I enjoy talking about technology and how it interacts with a story it's being used to tell, from ARGs to Tumblr to Twine.
 
 Creative non-fiction
 :   Non-fiction has a reputation for being dry. Research materials, textbooks, and newspapers immediately come to mind. However, there are many instances of true stories being told in creative ways, from emotionally touching memoirs to gripping works of investigative journalism, from photoessays presented on slick websites to interactive data visualizations that let the reader explore interactions. All of these are things that I enjoy thinking writing, and talking about.
